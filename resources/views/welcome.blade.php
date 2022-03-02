@@ -66,7 +66,7 @@
                 <div class="row">
                     <div class="col">
                         <nav class="navbar navbar-expand-lg nav-secondary nav-primary-hover nav-line-active">
-                            <a class="navbar-brand" href="#"><img class="nav-logo" src="assets/images/logo/logo1.png" alt="Image not found !"></a>
+                            <a class="navbar-brand" href="#"><img class="nav-logo" src="assets/images/logo/ELINK.png" alt="Image not found !"></a>
                             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="navbar-toggler-icon flaticon-menu flat-small text-primary"></span>
                             </button>
@@ -1109,7 +1109,7 @@
                 <div class="col">
                     <div class="footer-widget mb-4">
                         <div class="footer-logo mb-4">
-                            <a href="#"><img src="assets/images/logo/logo-full-white.png" alt="Image not found!" /></a>
+                            <a href="#"><img src="assets/images/logo/ELINK.png" alt="Image not found!" /></a>
                         </div>
                         <p>Risus commodo congue augue phas ellus morbi hymenaeos ante tincidu eu orci dictum bibe ndum lacus pla tea primis mi lacinia</p>
                     </div>
