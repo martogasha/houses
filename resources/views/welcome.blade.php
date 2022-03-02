@@ -1092,10 +1092,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-9 col-md-8">
-                    <h3 class="text-white xs-text-center my-20 font-400">Are you looking for a House or Customer for your Property sale?</h3>
+                    <h3 class="text-white xs-text-center my-20 font-400">Are you looking for a House cleaning services?</h3>
                 </div>
                 <div class="col-lg-3 col-md-4">
-                    <a href="#" class="btn btn-white y-center position-relative d-table xs-mx-auto ms-auto">Subscribe Now</a>
+                    <a href="#" class="btn btn-white y-center position-relative d-table xs-mx-auto ms-auto">Order Now</a>
                 </div>
             </div>
         </div>
