@@ -47,15 +47,7 @@
                 <div class="row row-cols-md-2 row-cols-1">
                     <div class="col">
                         <ul class="top-contact list-color-secondary">
-                            <li><a href="#"><i class="fa fa-phone" aria-hidden="true"></i> Need Support ? +1-435-782-4312</a></li>
-                        </ul>
-                    </div>
-                    <div class="col">
-                        <ul class="nav-bar-top right list-color-secondary d-flex">
-                            <li><a href="https://unicoderbd.com/theme/html/uniland-old/fullwidth/" target="_blank">Old Version</a></li>
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="signup.html">Sign Up</a></li>
-                            <li><a href="signin.html">Login</a></li>
+                            <li><a href="#"><i class="fa fa-phone" aria-hidden="true"></i> Need Support ? 0729296841</a></li>
                         </ul>
                     </div>
                 </div>
@@ -108,10 +100,10 @@
                     <div class="mb-3">
                         <ul>
                             <li class="mb-3">
-                                <h6 class="mb-0">Office Address :</h6> Level 13, 2 Elizabeth St, Melbourne, Victoria 3000 Australia
+                                <h6 class="mb-0">Office Address :</h6> Kikuyu
                             </li>
                             <li class="mb-3">
-                                <h6>Contact Number :</h6> (1) 000 991 8830, (800) 8001-8588
+                                <h6>Contact Number :</h6> 0729296841, 0770268722
                             </li>
                             <li class="mb-3">
                                 <h6>Email Address :</h6> Info@patron.com, support@patron.com
@@ -122,7 +114,7 @@
                 <div class="col-md-7 order-md-1">
                     <h4 class="down-line mb-5">Send Message</h4>
                     <div class="form-simple mb-5">
-                        <form id="contact-form" action="#" method="post" novalidate="novalidate">
+                        <form id="contact-form" action="#" novalidate="novalidate">
                             <div class="row">
                                 <div class="col-md-6 mb-20">
                                     <label class="mb-2">Full Name:</label>
@@ -159,7 +151,7 @@
                 <div class="col">
                     <div class="footer-widget mb-4">
                         <div class="footer-logo mb-4">
-                            <a href="#"><img src="assets/images/logo/logo-full-white.png" alt="Image not found!" /></a>
+                            <a href="#"><img src="assets/images/logo/ELINK.png" alt="Image not found!" /></a>
                         </div>
                         <p>Risus commodo congue augue phas ellus morbi hymenaeos ante tincidu eu orci dictum bibe ndum lacus pla tea primis mi lacinia</p>
                     </div>

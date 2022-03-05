@@ -47,17 +47,10 @@
                 <div class="row row-cols-md-2 row-cols-1">
                     <div class="col">
                         <ul class="top-contact list-color-secondary">
-                            <li><a href="#"><i class="fa fa-phone" aria-hidden="true"></i> Need Support ? +1-435-782-4312</a></li>
+                            <li><a href="#"><i class="fa fa-phone" aria-hidden="true"></i> Need Support ? 0729296841</a></li>
                         </ul>
                     </div>
-                    <div class="col">
-                        <ul class="nav-bar-top right list-color-secondary d-flex">
-                            <li><a href="https://unicoderbd.com/theme/html/uniland-old/fullwidth/" target="_blank">Old Version</a></li>
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="signup.html">Sign Up</a></li>
-                            <li><a href="signin.html">Login</a></li>
-                        </ul>
-                    </div>
+
                 </div>
             </div>
         </div>
