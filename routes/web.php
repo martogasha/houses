@@ -16,3 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('gallery', [App\Http\Controllers\IndexController::class, 'gallery']);
+Route::get('about', [App\Http\Controllers\IndexController::class, 'about']);
+Route::get('contact', [App\Http\Controllers\IndexController::class, 'contact']);

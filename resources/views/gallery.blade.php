@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from unicoderbd.com/theme/html/uniland/fullwidth/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Mar 2022 06:59:46 GMT -->
+<!-- Mirrored from unicoderbd.com/theme/html/uniland/fullwidth/photo-gallery-v1.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 16 Feb 2022 10:23:15 GMT -->
 <head>
     <!-- Meta Tag -->
     <meta charset="utf-8">
@@ -39,7 +39,7 @@
         <div class="loader clock xy-center"></div>
     </div>-->
 
-<div id="page_wrapper" class="bg-white">
+<div id="page_wrapper" class="bg-light">
     <!--============== Header Section Start ==============-->
     <header class="nav-on-top shadow-sm bg-white">
         <div class="top-header xs-mx-none bg-light border-bottom">
@@ -94,212 +94,125 @@
     </header>
     <!--============== Header Section End ==============-->
 
-    <!--============== Slider Area Start ==============-->
-    <div class="full-row p-0 overflow-hidden">
-
-        <div id="slider" class="overflow-hidden" style="width:1200px; height:780px; margin:0 auto;margin-bottom: 0px;">
-
-            <!-- Slide 1-->
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:4000; transition2d:104; kenburnsscale:1.00;">
-                <img width="1520" height="1000" src="assets/images/slider/Elink1.png" class="ls-bg" alt="" />
-            </div>
-
-            <!-- Slide 2-->
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:4000; transition2d:104; kenburnsscale:1.2;">
-                <img width="1520" height="1000" src="assets/images/slider/Elink2.png" class="ls-bg" alt="" />
-            </div>
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:4000; transition2d:104; kenburnsscale:1.2;">
-                <img width="1520" height="1000" src="assets/images/slider/Elink3.png" class="ls-bg" alt="" />
-            </div>
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:4000; transition2d:104; kenburnsscale:1.2;">
-                <img width="1520" height="1000" src="assets/images/slider/Elink4.png" class="ls-bg" alt="" />
-            </div>
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:4000; transition2d:104; kenburnsscale:1.2;">
-                <img width="1520" height="1000" src="assets/images/slider/Elink5.png" class="ls-bg" alt="" />
-            </div>
-
-        </div>
-    </div>
-    <!--============== Slider Area End ==============-->
-
-    <!--============== Property Search Form Start ==============-->
-        <!--============== Property Search Form End ==============-->
-
-    <!--============== Service Part Start ==============-->
-    <div class="full-row">
-        <div class="container">
-            <div class="row row-cols-lg-4 row-cols-sm-2 row-cols-1 g-4">
-                <div class="col">
-                    <div class="thumb-angle-left mb-4 wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1000ms">
-                        <div class="box-70px bg-primary p-3"><i class="flaticon-sketch-1 flat-small text-white"></i></div>
-                        <h5 class="mt-5 mb-3 font-400"><a href="#" class="transation">Property Booking</a></h5>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="thumb-angle-left mb-4 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1000ms">
-                        <div class="box-70px bg-primary p-3"><i class="flaticon-sketch-1 flat-small text-white"></i></div>
-                        <h5 class="mt-5 mb-3 font-400"><a href="#" class="transation">Payment Guarantee</a></h5>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="thumb-angle-left mb-4 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
-                        <div class="box-70px bg-primary p-3"><i class="flaticon-sketch-1 flat-small text-white"></i></div>
-                        <h5 class="mt-5 mb-3 font-400"><a href="#" class="transation">House Management</a></h5>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="thumb-angle-left mb-4 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1000ms">
-                        <div class="box-70px bg-primary p-3"><i class="flaticon-sketch-1 flat-small text-white"></i></div>
-                        <h5 class="mt-5 mb-3 font-400"><a href="#" class="transation">Property Deal</a></h5>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--============== Service Part End ==============-->
-
-    <!--============== Recent Property Start ==============-->
-    <!--============== Recent Property End ==============-->
-
-    <!--============== Property Category Start ==============-->
-    <div class="full-row bg-light">
-        <div class="container">
-            <div class="row">
-                <div class="col mb-5">
-                    <h2 class="main-title down-line w-50 mx-auto mb-4 text-center w-sm-100">What You Area Looking For?</h2>
-                </div>
-            </div>
-            <div class="row row-cols-xl-4 row-cols-sm-2 row-cols-1 g-4">
-                <div class="col">
-                    <div class="text-center p-35 bg-white transation hover-shadow h-100 rounded">
-                        <span class="flaticon-network flat-medium text-primary"></span>
-                        <h5 class="mb-3 font-400"><a href="#" class="d-block text-secondary hover-text-primary mt-4">House</a></h5>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="text-center p-35 bg-white transation hover-shadow h-100 rounded">
-                        <span class="flaticon-network flat-medium text-primary"></span>
-                        <h5 class="mb-3 font-400"><a href="#" class="d-block text-secondary hover-text-primary mt-4">Land</a></h5>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="text-center p-35 bg-white transation hover-shadow h-100 rounded">
-                        <span class="flaticon-network flat-medium text-primary"></span>
-                        <h5 class="mb-3 font-400"><a href="#" class="d-block text-secondary hover-text-primary mt-4">Office</a></h5>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="text-center p-35 bg-white transation hover-shadow h-100 rounded">
-                        <span class="flaticon-network flat-medium text-primary"></span>
-                        <h5 class="mb-3 font-400"><a href="#" class="d-block text-secondary hover-text-primary mt-4">Business</a></h5>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--============== Property Category End ==============-->
-
-    <!--============== Property Agent Start ==============-->
-    <!--============== Property Agent End ==============-->
-
-    <!--============== Data Counting Start ==============-->
-    <!--============== Data Counting End ==============-->
-
-    <!--============== Testimonial Section Start ==============-->
-    <!--============== Testimonial Section End ==============-->
-
-    <!--============== Recent Property Start ==============-->
-    <!--============== Recent Property End ==============-->
-
-    <!--============== Blog Section Start ==============-->
-    <div class="full-row bg-light">
+    <!--============== Page title Start ==============-->
+    <div class="full-row py-5">
         <div class="container">
             <div class="row">
                 <div class="col">
-                    <span class="pb-2 d-table w-50 w-sm-100 text-primary m-auto text-center tagline">Our Recent Post</span>
-                    <h2 class="down-line w-50 w-sm-100 mx-auto text-center mb-5">Publish What We Think, About Our Company Activities</h2>
-                </div>
-            </div>
-            <div class="row row-cols-lg-3 row-cols-md-2 row-cols-1">
-                <div class="col">
-                    <div class="thumb-blog-overlay bg-white hover-text-PushUpBottom mb-4">
-                        <div class="post-image position-relative overlay-secondary">
-                            <img src="assets/images/blog/1.png" alt="Image not found!">
-                            <div class="position-absolute xy-center">
-                                <div class="overflow-hidden text-center">
-                                    <a class="text-white first-push-up transation font-large" href="#">+</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="post-content p-35">
-                            <h5 class="d-block font-400 mb-3"><a href="#" class="transation text-dark hover-text-primary">Our latest development projects by more efficie.</a></h5>
-                            <p>Nostra maecenas malesuada vel lobortis sociis mus aliquam tempor etiam ipsum pretium cursus.</p>
-                            <div class="post-meta text-uppercase">
-                                <a href="#"><span>By Robert Haven</span></a>
-                                <a href="#"><span>Dec 25, 2019</span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="thumb-blog-overlay bg-white hover-text-PushUpBottom mb-4">
-                        <div class="post-image position-relative overlay-secondary">
-                            <img src="assets/images/blog/2.png" alt="Image not found!">
-                            <div class="position-absolute xy-center">
-                                <div class="overflow-hidden text-center">
-                                    <a class="text-white first-push-up transation font-large" href="#">+</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="post-content p-35">
-                            <h5 class="d-block font-400 mb-3"><a href="#" class="transation text-dark hover-text-primary">Cultivating market leadership from the inside.</a></h5>
-                            <p>Nostra maecenas malesuada vel lobortis sociis mus aliquam tempor etiam ipsum pretium cursus.</p>
-                            <div class="post-meta text-uppercase">
-                                <a href="#"><span>By Robert Haven</span></a>
-                                <a href="#"><span>Dec 25, 2019</span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="thumb-blog-overlay bg-white hover-text-PushUpBottom mb-4">
-                        <div class="post-image position-relative overlay-secondary">
-                            <img src="assets/images/blog/3.png" alt="Image not found!">
-                            <div class="position-absolute xy-center">
-                                <div class="overflow-hidden text-center">
-                                    <a class="text-white first-push-up transation font-large" href="#">+</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="post-content p-35">
-                            <h5 class="d-block font-400 mb-3"><a href="#" class="transation text-dark hover-text-primary">We are the next generation of the advertising.</a></h5>
-                            <p>Nostra maecenas malesuada vel lobortis sociis mus aliquam tempor etiam ipsum pretium cursus.</p>
-                            <div class="post-meta text-uppercase">
-                                <a href="#"><span>By Robert Haven</span></a>
-                                <a href="#"><span>Dec 25, 2019</span></a>
-                            </div>
-                        </div>
-                    </div>
+                    <h3 class="text-secondary">Photo Gallery</h3>
                 </div>
             </div>
         </div>
     </div>
-    <!--============== Blog Section End ==============-->
+    <!--============== Page title End ==============-->
 
-    <!--============== Register Section Start ==============-->
-    <div class="full-row bg-primary py-4">
+    <!--============== Photos Start ==============-->
+    <div class="full-row pt-0">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-9 col-md-8">
-                    <h3 class="text-white xs-text-center my-20 font-400">Are you looking for House cleaning services?</h3>
+            <div class="row row-cols-md-3 row-cols-1 g-4">
+                <div class="col">
+                    <div class="gallery-one photo-overlay">
+                        <a href="#quick-view" class="quick-view transation xy-center">
+                            <span class="flaticon-eye-1 text-primary"></span>
+                        </a>
+                        <a href="assets/images/property/1.png" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                            <span class="flaticon-zoom-in"></span>
+                        </a>
+                        <img src="assets/images/property/1.png" alt="real estate template">
+                    </div>
                 </div>
-                <div class="col-lg-3 col-md-4">
-                    <a href="#" class="btn btn-white y-center position-relative d-table xs-mx-auto ms-auto">Order Now</a>
+                <div class="col">
+                    <div class="gallery-one photo-overlay">
+                        <a href="#quick-view" class="quick-view transation xy-center">
+                            <span class="flaticon-eye-1 text-primary"></span>
+                        </a>
+                        <a href="assets/images/property/2.png" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                            <span class="flaticon-zoom-in"></span>
+                        </a>
+                        <img src="assets/images/property/2.png" alt="real estate template">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="gallery-one photo-overlay">
+                        <a href="#quick-view" class="quick-view transation xy-center">
+                            <span class="flaticon-eye-1 text-primary"></span>
+                        </a>
+                        <a href="assets/images/property/5.png" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                            <span class="flaticon-zoom-in"></span>
+                        </a>
+                        <img src="assets/images/property/5.png" alt="real estate template">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="gallery-one photo-overlay">
+                        <a href="#quick-view" class="quick-view transation xy-center">
+                            <span class="flaticon-eye-1 text-primary"></span>
+                        </a>
+                        <a href="assets/images/property/6.png" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                            <span class="flaticon-zoom-in"></span>
+                        </a>
+                        <img src="assets/images/property/6.png" alt="real estate template">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="gallery-one photo-overlay">
+                        <a href="#quick-view" class="quick-view transation xy-center">
+                            <span class="flaticon-eye-1 text-primary"></span>
+                        </a>
+                        <a href="assets/images/property/7.png" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                            <span class="flaticon-zoom-in"></span>
+                        </a>
+                        <img src="assets/images/property/7.png" alt="real estate template">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="gallery-one photo-overlay">
+                        <a href="#quick-view" class="quick-view transation xy-center">
+                            <span class="flaticon-eye-1 text-primary"></span>
+                        </a>
+                        <a href="assets/images/property/8.png" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                            <span class="flaticon-zoom-in"></span>
+                        </a>
+                        <img src="assets/images/property/8.png" alt="real estate template">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="gallery-one photo-overlay">
+                        <a href="#quick-view" class="quick-view transation xy-center">
+                            <span class="flaticon-eye-1 text-primary"></span>
+                        </a>
+                        <a href="assets/images/property/9.png" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                            <span class="flaticon-zoom-in"></span>
+                        </a>
+                        <img src="assets/images/property/9.png" alt="real estate template">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="gallery-one photo-overlay">
+                        <a href="#quick-view" class="quick-view transation xy-center">
+                            <span class="flaticon-eye-1 text-primary"></span>
+                        </a>
+                        <a href="assets/images/property/2.png" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                            <span class="flaticon-zoom-in"></span>
+                        </a>
+                        <img src="assets/images/property/2.png" alt="real estate template">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="gallery-one photo-overlay">
+                        <a href="#quick-view" class="quick-view transation xy-center">
+                            <span class="flaticon-eye-1 text-primary"></span>
+                        </a>
+                        <a href="assets/images/property/5.png" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                            <span class="flaticon-zoom-in"></span>
+                        </a>
+                        <img src="assets/images/property/5.png" alt="real estate template">
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-    <!--============== Register Section End ==============-->
+    <!--============== Photos End ==============-->
 
     <!--============== Footer Section Start ==============-->
     <footer class="full-row footer-default-dark bg-footer" style="padding-bottom: 30px">
@@ -308,7 +221,7 @@
                 <div class="col">
                     <div class="footer-widget mb-4">
                         <div class="footer-logo mb-4">
-                            <a href="#"><img src="assets/images/logo/ELINK.png" alt="Image not found!" /></a>
+                            <a href="#"><img src="assets/images/logo/logo-full-white.png" alt="Image not found!" /></a>
                         </div>
                         <p>Risus commodo congue augue phas ellus morbi hymenaeos ante tincidu eu orci dictum bibe ndum lacus pla tea primis mi lacinia</p>
                     </div>
@@ -460,9 +373,6 @@
 
 <!-- Javascript Files -->
 <script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/greensock.js"></script>
-<script src="assets/js/layerslider.transitions.js"></script>
-<script src="assets/js/layerslider.kreaturamedia.jquery.js"></script>
 <script src="assets/js/popper.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
 <script src="assets/js/bootstrap-select.min.js"></script>
@@ -476,25 +386,9 @@
 <script src="assets/js/mixitup.min.js"></script>
 <script src="assets/js/paraxify.js"></script>
 <script src="assets/js/custom.js"></script>
-<script>
-    $('#slider').layerSlider({
-        sliderVersion: '6.0.0',
-        type: 'fullwidth',
-        responsiveUnder: 0,
-        maxRatio: 1,
-        slideBGSize: 'auto',
-        hideUnder: 0,
-        hideOver: 100000,
-        skin: 'outline',
-        fitScreenWidth: true,
-        fullSizeMode: 'fitheight',
-        thumbnailNavigation: 'disabled',
-        height: 780,
-        skinsPath: 'assets/skins/'
-    });
-</script>
+
 </body>
 
 
-<!-- Mirrored from unicoderbd.com/theme/html/uniland/fullwidth/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Mar 2022 07:01:57 GMT -->
+<!-- Mirrored from unicoderbd.com/theme/html/uniland/fullwidth/photo-gallery-v1.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 16 Feb 2022 10:23:15 GMT -->
 </html>
