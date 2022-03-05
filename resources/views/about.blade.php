@@ -167,22 +167,7 @@
     <!--============== Footer Section End ==============-->
 
     <!--============== Copyright Section Start ==============-->
-    <div class="copyright bg-footer text-default py-4">
-        <div class="container">
-            <div class="row row-cols-md-2 row-cols-1">
-                <div class="col">
-                    <span class="text-white">© 2021 Uniland All right reserved</span>
-                </div>
-                <div class="col">
-                    <ul class="line-menu float-end list-color-gray">
-                        <li><a href="#">Privacy & Policy </a></li>
-                        <li>|</li>
-                        <li><a href="#">Site Map</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
+
     <!--============== Copyright Section End ==============-->
 
     <!-- Scroll to top -->
