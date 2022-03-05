@@ -104,9 +104,6 @@
             <div class="row row-cols-md-3 row-cols-1 g-4">
                 <div class="col">
                     <div class="gallery-one photo-overlay">
-                        <a href="#quick-view" class="quick-view transation xy-center">
-                            <span class="flaticon-eye-1 text-primary"></span>
-                        </a>
                         <a href="assets/images/property/about4.jpg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
                             <span class="flaticon-zoom-in"></span>
                         </a>
@@ -115,9 +112,6 @@
                 </div>
                 <div class="col">
                     <div class="gallery-one photo-overlay">
-                        <a href="#quick-view" class="quick-view transation xy-center">
-                            <span class="flaticon-eye-1 text-primary"></span>
-                        </a>
                         <a href="assets/images/property/about2.jpg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
                             <span class="flaticon-zoom-in"></span>
                         </a>
@@ -126,9 +120,6 @@
                 </div>
                 <div class="col">
                     <div class="gallery-one photo-overlay">
-                        <a href="#quick-view" class="quick-view transation xy-center">
-                            <span class="flaticon-eye-1 text-primary"></span>
-                        </a>
                         <a href="assets/images/property/about1.jpg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
                             <span class="flaticon-zoom-in"></span>
                         </a>
@@ -137,9 +128,6 @@
                 </div>
                 <div class="col">
                     <div class="gallery-one photo-overlay">
-                        <a href="#quick-view" class="quick-view transation xy-center">
-                            <span class="flaticon-eye-1 text-primary"></span>
-                        </a>
                         <a href="assets/images/property/about3.jpg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
                             <span class="flaticon-zoom-in"></span>
                         </a>
@@ -148,9 +136,6 @@
                 </div>
                 <div class="col">
                     <div class="gallery-one photo-overlay">
-                        <a href="#quick-view" class="quick-view transation xy-center">
-                            <span class="flaticon-eye-1 text-primary"></span>
-                        </a>
                         <a href="assets/images/property/about5.jpg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
                             <span class="flaticon-zoom-in"></span>
                         </a>
