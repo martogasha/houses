@@ -4,7 +4,7 @@
             <div class="col">
                 <div class="footer-widget mb-4">
                     <div class="footer-logo mb-4">
-                        <a href="#"><img src="assets/images/logo/ELINK.png" alt="Image not found!" /></a>
+                        <a href="#"><img src="assets/images/logo/ELIN.png" alt="Image not found!" style="background-color: white" /></a>
                     </div>
                 </div>
                 <div class="footer-widget media-widget mb-4">
