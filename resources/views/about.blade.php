@@ -85,8 +85,6 @@
         </div>
     </header>
     <!--============== Header Section End ==============-->
-
-    <!--============== Page title Start ==============-->
     <div class="full-row py-5">
         <div class="container">
             <div class="row">
@@ -96,18 +94,59 @@
             </div>
         </div>
     </div>
+    <!--============== Page title Start ==============-->
     <!--============== Page title End ==============-->
 
+    <!--============== Features Start ==============-->
+    <div class="full-row pb-30">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="row row-cols-md-2 row-cols-1">
+                        <div class="col border-start border-geay mb-5">
+                            <div class="simple-thumb transation px-4">
+                                <h5 class="my-3"><a href="#" class="text-secondary">About Us</a></h5>
+                                <p>E-LINK AGENCIES LTD is a registered property firm in kenya that strives to your dream property or to your investment return. whether you are looking for returns from your property, E-LINK AGENCIES will ensure that your wish is granted and that we connect you to your ideal position.</p>
+                            </div>
+                        </div>
+                        <div class="col border-start border-geay mb-5">
+                            <div class="simple-thumb transation px-4">
+                                <h5 class="my-3"><a href="#" class="text-secondary">Mission Statement</a></h5>
+                                <p>Maxmize clients income by applying exceptional Real Estate Management Skills while ensuring tenant satisfaction by adopting first rate property maintenance.</p>
+                            </div>
+                        </div>
+                        <div class="col border-start border-geay mb-5">
+                            <div class="simple-thumb transation px-4">
+                                <h5 class="my-3"><a href="#" class="text-secondary">Vision</a></h5>
+                                <p>To be the leader in Property Management in Kenya and beyond.</p>
+                            </div>
+                        </div>
+                        <div class="col border-start border-geay mb-5">
+                            <div class="simple-thumb transation px-4">
+                                <h5 class="my-3"><a href="#" class="text-secondary">Why Us</a></h5>
+                                <p>Property Management, Tenancy Database and Relations, Advertisement, Timely Collection and Disbursement, Strong It System, Kra Returns and Accounting, Regular Property inspection, Caretakers/Cleaners</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--============== Features End ==============-->
     <!--============== Photos Start ==============-->
     <div class="full-row pt-0">
         <div class="container">
             <div class="row row-cols-md-3 row-cols-1 g-4">
-                <div class="col">
-                    <div class="gallery-one photo-overlay">
-                        <a href="assets/images/property/about4.jpg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
-                            <span class="flaticon-zoom-in"></span>
-                        </a>
-                        <img src="assets/images/property/about4.jpg" alt="real estate template">
+                <div class="col-lg-4">
+                    <div class="text-secondary mb-5">
+                        <div class="col">
+                            <div class="gallery-one photo-overlay">
+                                <a href="assets/images/property/about4.jpg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                                    <span class="flaticon-zoom-in"></span>
+                                </a>
+                                <img src="assets/images/property/about4.jpg" alt="real estate template">
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="col">
@@ -132,14 +171,6 @@
                             <span class="flaticon-zoom-in"></span>
                         </a>
                         <img src="assets/images/property/about3.jpg" alt="real estate template">
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="gallery-one photo-overlay">
-                        <a href="assets/images/property/about5.jpg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
-                            <span class="flaticon-zoom-in"></span>
-                        </a>
-                        <img src="assets/images/property/about5.jpg" alt="real estate template">
                     </div>
                 </div>
             </div>

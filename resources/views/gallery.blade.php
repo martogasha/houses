@@ -105,101 +105,74 @@
             <div class="row row-cols-md-3 row-cols-1 g-4">
                 <div class="col">
                     <div class="gallery-one photo-overlay">
-                        <a href="#quick-view" class="quick-view transation xy-center">
-                            <span class="flaticon-eye-1 text-primary"></span>
-                        </a>
-                        <a href="assets/images/property/1.png" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                        <a href="assets/images/property/g1.jpeg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
                             <span class="flaticon-zoom-in"></span>
                         </a>
-                        <img src="assets/images/property/1.png" alt="real estate template">
+                        <img src="assets/images/property/g1.jpeg" alt="real estate template">
                     </div>
                 </div>
                 <div class="col">
                     <div class="gallery-one photo-overlay">
-                        <a href="#quick-view" class="quick-view transation xy-center">
-                            <span class="flaticon-eye-1 text-primary"></span>
-                        </a>
-                        <a href="assets/images/property/2.png" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                        <a href="assets/images/property/g2.jpeg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
                             <span class="flaticon-zoom-in"></span>
                         </a>
-                        <img src="assets/images/property/2.png" alt="real estate template">
+                        <img src="assets/images/property/g2.jpeg" alt="real estate template">
                     </div>
                 </div>
                 <div class="col">
                     <div class="gallery-one photo-overlay">
-                        <a href="#quick-view" class="quick-view transation xy-center">
-                            <span class="flaticon-eye-1 text-primary"></span>
-                        </a>
-                        <a href="assets/images/property/5.png" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                        <a href="assets/images/property/g3.jpeg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
                             <span class="flaticon-zoom-in"></span>
                         </a>
-                        <img src="assets/images/property/5.png" alt="real estate template">
+                        <img src="assets/images/property/g3.jpeg" alt="real estate template">
                     </div>
                 </div>
                 <div class="col">
                     <div class="gallery-one photo-overlay">
-                        <a href="#quick-view" class="quick-view transation xy-center">
-                            <span class="flaticon-eye-1 text-primary"></span>
-                        </a>
-                        <a href="assets/images/property/6.png" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                        <a href="assets/images/property/g4.jpeg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
                             <span class="flaticon-zoom-in"></span>
                         </a>
-                        <img src="assets/images/property/6.png" alt="real estate template">
+                        <img src="assets/images/property/g4.jpeg" alt="real estate template">
                     </div>
                 </div>
                 <div class="col">
                     <div class="gallery-one photo-overlay">
-                        <a href="#quick-view" class="quick-view transation xy-center">
-                            <span class="flaticon-eye-1 text-primary"></span>
-                        </a>
-                        <a href="assets/images/property/7.png" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                        <a href="assets/images/property/g5.jpeg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
                             <span class="flaticon-zoom-in"></span>
                         </a>
-                        <img src="assets/images/property/7.png" alt="real estate template">
+                        <img src="assets/images/property/g5.jpeg" alt="real estate template">
                     </div>
                 </div>
                 <div class="col">
                     <div class="gallery-one photo-overlay">
-                        <a href="#quick-view" class="quick-view transation xy-center">
-                            <span class="flaticon-eye-1 text-primary"></span>
-                        </a>
-                        <a href="assets/images/property/8.png" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                        <a href="assets/images/property/g6.jpeg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
                             <span class="flaticon-zoom-in"></span>
                         </a>
-                        <img src="assets/images/property/8.png" alt="real estate template">
+                        <img src="assets/images/property/g6.jpeg" alt="real estate template">
                     </div>
                 </div>
                 <div class="col">
                     <div class="gallery-one photo-overlay">
-                        <a href="#quick-view" class="quick-view transation xy-center">
-                            <span class="flaticon-eye-1 text-primary"></span>
-                        </a>
-                        <a href="assets/images/property/9.png" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                        <a href="assets/images/property/g7.jpeg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
                             <span class="flaticon-zoom-in"></span>
                         </a>
-                        <img src="assets/images/property/9.png" alt="real estate template">
+                        <img src="assets/images/property/g7.jpeg" alt="real estate template">
                     </div>
                 </div>
                 <div class="col">
                     <div class="gallery-one photo-overlay">
-                        <a href="#quick-view" class="quick-view transation xy-center">
-                            <span class="flaticon-eye-1 text-primary"></span>
-                        </a>
-                        <a href="assets/images/property/2.png" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                        <a href="assets/images/property/g8.jpeg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
                             <span class="flaticon-zoom-in"></span>
                         </a>
-                        <img src="assets/images/property/2.png" alt="real estate template">
+                        <img src="assets/images/property/g8.jpeg" alt="real estate template">
                     </div>
                 </div>
                 <div class="col">
                     <div class="gallery-one photo-overlay">
-                        <a href="#quick-view" class="quick-view transation xy-center">
-                            <span class="flaticon-eye-1 text-primary"></span>
-                        </a>
-                        <a href="assets/images/property/5.png" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
+                        <a href="assets/images/property/g9.jpeg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
                             <span class="flaticon-zoom-in"></span>
                         </a>
-                        <img src="assets/images/property/5.png" alt="real estate template">
+                        <img src="assets/images/property/g9.jpeg" alt="real estate template">
                     </div>
                 </div>
             </div>
