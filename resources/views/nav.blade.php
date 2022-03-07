@@ -17,6 +17,5 @@
                 <a class="nav-link" href="{{url('contact')}}">Contact</a>
             </li>
         </ul>
-        <a href="#" class="ms-2 btn btn-primary md-mx-none rounded-pill">+ Create Listing</a>
     </div>
 </nav>
