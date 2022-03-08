@@ -68,23 +68,23 @@
     <!--============== Slider Area Start ==============-->
     <div class="full-row p-0 overflow-hidden">
 
-        <div id="slider" class="overflow-hidden" style="width:1200px; height:780px; margin:0 auto;margin-bottom: 0px;">
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:4000; transition2d:104; kenburnsscale:1.2;">
-                <img width="1920" height="1280" src="assets/images/slider/Elink3.png" class="ls-bg" alt="" />
+        <div id="slider" class="overflow-hidden" style="width:1200px; height:1280px; margin:0 auto;margin-bottom: 0px;">
+            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:5000; transition2d:104; kenburnsscale:1.2;">
+                <img width="1920" height="1280" src="assets/images/slider/Elink4.png" class="ls-bg" alt="" />
             </div>
             <!-- Slide 1-->
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:4000; transition2d:104; kenburnsscale:1.00;">
+            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:5000; transition2d:104; kenburnsscale:1.00;">
                 <img width="1920" height="1280" src="assets/images/slider/Elink1.png" class="ls-bg" alt="" />
             </div>
 
             <!-- Slide 2-->
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:4000; transition2d:104; kenburnsscale:1.2;">
-                <img width="1920" height="1280" src="assets/images/slider/Elink4.png" class="ls-bg" alt="" />
+            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:5000; transition2d:104; kenburnsscale:1.2;">
+                <img width="1920" height="1280" src="assets/images/slider/Elink41.png" class="ls-bg" alt="" />
             </div>
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:4000; transition2d:104; kenburnsscale:1.2;">
+            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:5000; transition2d:104; kenburnsscale:1.2;">
                 <img width="1920" height="1280" src="assets/images/slider/Elink5.png" class="ls-bg" alt="" />
             </div>
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:4000; transition2d:104; kenburnsscale:1.2;">
+            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:5000; transition2d:104; kenburnsscale:1.2;">
                 <img width="1920" height="1280" src="assets/images/slider/Elink2.png" class="ls-bg" alt="" />
             </div>
 

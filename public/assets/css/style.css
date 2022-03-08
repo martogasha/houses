@@ -1,7 +1,7 @@
     @charset "UTF-8";
     /**
 
-* Template Name: Uniland - Real Estate HTML5 Template 
+* Template Name: Uniland - Real Estate HTML5 Template
 * Version: 2.7.0
 * Author: Unicoder
 * Email: unicoder16@gmail.com
@@ -536,7 +536,7 @@ Button Style
 /*===============================================================================
 Nav Pils Tab Style Start
 ==================================================================================*/
-    
+
 .nav-pills {
     margin-bottom: 20px;
 }
@@ -583,7 +583,7 @@ Nav Pils Tab Style Start
 /*===============================================================================
 Form Design Style Start
 ==================================================================================*/
-    
+
     select {
         appearance: none;
         -webkit-appearance: none;
@@ -595,29 +595,29 @@ Form Design Style Start
         cursor: pointer;
     }
     /* For IE <= 11 */
-    
+
     select::-ms-expand {
         display: none;
     }
-    
+
     select:focus {
         outline: none;
     }
-    
+
     .form-group {
         position: relative;
         display: flex;
     }
-    
+
     .form-group input:not(:last-child) {
         margin-right: 5px;
     }
-    
+
     .search-form.header-active-form .form-control {
         width: 350px;
         padding: 15px 40px 15px 20px;
     }
-    
+
     .search-form .form-control {
         height: 50px;
         padding: 5px 30px 5px 20px;
@@ -625,24 +625,24 @@ Form Design Style Start
         font-size: 1rem;
         color: #495057;
     }
-    
+
     .form-control::placeholder {
         color: #495057 !important;
         font-size: 15px !important;
     }
-    
+
     .form-control::-webkit-input-placeholder {
         font-size: 15px;
         color: var(--theme-dark-color);
     }
-    
+
     .form-control {
         height: 50px;
         font-size: 16px !important;
         color: #495057;
         padding: 14px 15px;
     }
-    
+
     .quick-search .form-control {
         border: 1px solid;
         border-color: var(--theme-gray-color);
@@ -650,11 +650,11 @@ Form Design Style Start
         color: #484848;
         padding: 0 15px;
     }
-    
+
     .form-boder .form-control {
         border-color: var(--theme-gray-color);
     }
-    
+
     .bootstrap-select>.dropdown-toggle {
         background: var(--theme-white-color);
         border: 1px solid;
@@ -664,22 +664,22 @@ Form Design Style Start
         padding: 0 15px;
         color: var(--theme-dark-color);
     }
-    
+
     .dropdown-item.active,
     .dropdown-item:active {
         background-color: var(--theme-light-color);
         color: var(--theme-primary-color);
     }
-    
+
     .bootstrap-select .dropdown-menu li {
         position: relative;
         line-height: 35px;
     }
-    
+
     .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn) {
         width: 100%;
     }
-    
+
     .bootstrap-select .bs-ok-default:after {
         content: '';
         display: block;
@@ -692,44 +692,44 @@ Form Design Style Start
         -o-transform: rotate(45deg);
         transform: rotate(45deg);
     }
-    
+
     .bootstrap-select.show-tick .dropdown-menu .selected span.check-mark {
         position: absolute;
         display: inline-block;
         right: 15px;
         top: 13px;
     }
-    
+
     .form-icon-right .icon-font,
     .form-icon-right .fas {
         right: 20px;
         top: 50%;
         position: absolute;
     }
-    
+
     .form-control {
         margin-bottom: 0
     }
-    
+
     .filter-option-inner-inner {
         font-family: var(--theme-general-font) !important;
         text-shadow: none;
         font-weight: 400;
         font-size: 15px;
     }
-    
+
     .banner-search-form {
         background: rgba(255, 255, 255, 0.1);
         border-radius: 5px;
     }
-    
+
     .bootstrap-select .dropdown-toggle:focus,
     .bootstrap-select>select.mobile-device:focus+.dropdown-toggle {
         outline: none;
         outline: none;
         outline-offset: unset;
     }
-    
+
     .aditional-features {
         position: absolute;
         width: 100%;
@@ -742,21 +742,21 @@ Form Design Style Start
         opacity: 0;
         z-index: 10;
     }
-    
+
     .aditional-features.visible-static.visible {
         position: static !important;
     }
-    
+
     .aditional-features.visible {
         visibility: visible;
         opacity: 1;
     }
-    
+
     .custom-check-box li {
         padding-top: 5px;
         padding-bottom: 5px;
     }
-    
+
     .custom-check-box-2 label,
     .custom-check-box li label {
         padding-left: 27px;
@@ -764,15 +764,15 @@ Form Design Style Start
         cursor: pointer;
         line-height: 28px;
     }
-    
+
     .custom-check-box-2 {
         padding: 0
     }
-    
+
     .custom-check-box-2 label {
         margin-left: 0;
     }
-    
+
     .custom-check-box-2 label::before,
     .custom-check-box li label::before {
         background-color: #ffffff;
@@ -787,11 +787,11 @@ Form Design Style Start
         position: absolute;
         transition: border-color 0.3s ease 0s;
     }
-    
+
     .custom-control-input:focus~.custom-control-label::before {
         box-shadow: none;
     }
-    
+
     .custom-check-box-2 input[type="checkbox"]:checked+label::before,
     .custom-check-box li input[type="checkbox"]:checked+label::before {
         font-size: 7px;
@@ -805,15 +805,15 @@ Form Design Style Start
         background-color: var(--theme-primary-color);
         color: var(--theme-white-color);
     }
-    
+
     .price-toggle {
         text-align: left;
     }
-    
+
     .entry-form input {
         width: calc(100% - 110px);
     }
-    
+
     .entry-form button {
         position: absolute;
         background: transparent;
@@ -823,14 +823,14 @@ Form Design Style Start
         text-align: center;
         line-height: 47px;
     }
-    
+
     .widget.agent-search select,
     .woocommerce-ordering select {
         background-color: transparent;
         font-size: 15px;
         color: var(--theme-dark-color);
     }
-    
+
     .form-boder select,
     .widget.agent-search select {
         border: 1px solid var(--theme-gray-color);
@@ -843,18 +843,18 @@ Form Design Style Start
     /*===============================================================================
 Header Style Start
 ==================================================================================*/
-    
+
     .dropdown-item,
     .navbar-nav .nav-link {
         font-size: 15px;
         font-weight: 400;
     }
-    
+
     .navbar-toggler,
     .navbar-toggler:focus {
         box-shadow: none;
     }
-    
+
     .navbar-nav>li.dropdown>a.nav-link::after,
     .navbar-nav>li.dropdown .dropdown-toggle::after {
         transform: translateY(-50%) rotate(90deg);
@@ -868,7 +868,7 @@ Header Style Start
         display: block;
         border: none;
     }
-    
+
     .dropdown-item:focus,
     .dropdown-item:hover {
         padding-left: 35px;
@@ -876,13 +876,13 @@ Header Style Start
     /*===============================================================================
 Slide Filter Style Start
 ==================================================================================*/
-    
+
     .select-custom li {
         display: inline-block;
         margin-top: 2px;
         margin-bottom: 2px;
     }
-    
+
     .select-custom li label {
         padding: 7px 15px;
         border: 1px solid #d7d7d8;
@@ -893,12 +893,12 @@ Slide Filter Style Start
         position: relative;
         overflow: hidden;
     }
-    
+
     .select-custom li input[type="radio"]:checked+label {
         border-color: var(--theme-primary-color);
         color: var(--theme-primary-color);
     }
-    
+
     .select-custom li input[type="radio"]:checked+label:before {
         position: absolute;
         content: "";
@@ -911,7 +911,7 @@ Slide Filter Style Start
         right: -12px;
         bottom: -12px;
     }
-    
+
     .select-custom li input[type="radio"]:checked+label:after {
         position: absolute;
         content: "\f00c";
@@ -925,20 +925,20 @@ Slide Filter Style Start
         font-weight: 900;
         z-index: 9;
     }
-    
+
     .slide-filter .price-range-toggle {
         width: 100%
     }
     /*===============================================================================
 jSlider Style Start
 ==================================================================================*/
-    
+
     .jslider .jslider-pointer {
         background-color: var(--theme-primary-color);
         border: 4px solid #fff;
         box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .20)!important;
     }
-    
+
     .jslider {
         display: block;
         width: 95%;
@@ -946,13 +946,13 @@ jSlider Style Start
         position: relative;
         top: 30px;
     }
-    
+
     .jslider table {
         width: 100%;
         border-collapse: collapse;
         border: 0;
     }
-    
+
     .jslider td,
     .jslider th {
         padding: 0;
@@ -960,25 +960,25 @@ jSlider Style Start
         text-align: left;
         border: 0;
     }
-    
+
     .jslider table,
     .jslider table tr,
     .jslider table tr td {
         width: 100%;
         vertical-align: top;
     }
-    
+
     .jslider .jslider-bg {
         position: relative;
     }
-    
+
     .jslider .jslider-bg .l {
         width: 10%;
         background-position: 0 0;
         left: 0;
         background: var(--theme-light-color);
     }
-    
+
     .jslider .jslider-bg .f {
         width: 80%;
         left: 10%;
@@ -986,21 +986,21 @@ jSlider Style Start
         background-position: 0 -20px;
         background: var(--theme-light-color);
     }
-    
+
     .jslider .jslider-bg .r {
         background-position: right 0;
         width: 100%;
         right: -18px;
         background: var(--theme-light-color);
     }
-    
+
     .jslider .jslider-bg i {
         height: 4px;
         position: absolute;
         font-size: 0;
         top: 0;
     }
-    
+
     .jslider .jslider-bg .v {
         position: absolute;
         width: 60%;
@@ -1009,7 +1009,7 @@ jSlider Style Start
         height: 4px;
         background: var(--theme-primary-color);
     }
-    
+
     .jslider .jslider-pointer {
         width: 18px;
         height: 18px;
@@ -1021,11 +1021,11 @@ jSlider Style Start
         cursor: pointer;
         cursor: hand;
     }
-    
+
     .jslider .jslider-pointer-hover {
         background-position: -20px -60px;
     }
-    
+
     .jslider .jslider-label {
         font-size: 9px;
         line-height: 12px;
@@ -1037,26 +1037,26 @@ jSlider Style Start
         top: -18px;
         left: 0px;
     }
-    
+
     .price-filter .jslider .jslider-label,
     .area-filter .jslider .jslider-label {
         display: none !important
     }
-    
+
     .jslider .jslider-label-to {
         left: auto;
         right: 0;
     }
-    
+
     .jslider-value>span {
         float: right;
     }
-    
+
     .area-filter .jslider-value>span {
         float: left;
         padding-right: 3px
     }
-    
+
     .jslider .jslider-value {
         font-size: 14px;
         font-weight: 600;
@@ -1072,29 +1072,29 @@ jSlider Style Start
         -o-border-radius: 2px;
         border-radius: 2px;
     }
-    
+
     .jslider .jslider-value-to {
         margin-right: -18px;
     }
-    
+
     .jslider .jslider-label small,
     .jslider .jslider-value small {
         position: relative;
         top: -0.4em;
     }
-    
+
     .jslider .jslider-scale {
         position: relative;
         top: 9px;
     }
-    
+
     .jslider .jslider-scale span {
         position: absolute;
         height: 4px;
         border-left: 1px solid #999;
         font-size: 0;
     }
-    
+
     .jslider .jslider-scale ins {
         font-size: 9px;
         text-decoration: none;
@@ -1103,14 +1103,14 @@ jSlider Style Start
         top: 5px;
         color: #999;
     }
-    
+
     .jslider-single .jslider-pointer-to,
     .jslider-single .jslider-value-to,
     .jslider-single .jslider-bg .v,
     .jslider-limitless .jslider-label {
         display: none;
     }
-    
+
     .price-range-toggle {
         width: 285px;
         padding: 30px;
@@ -1125,13 +1125,13 @@ jSlider Style Start
         opacity: 0;
         z-index: 0;
     }
-    
+
     .price-range-toggle.visible {
         visibility: visible;
         opacity: 1;
         z-index: 10;
     }
-    
+
     .aditional-features:before,
     .price-range-toggle:before {
         background-color: #ffffff;
@@ -1149,23 +1149,23 @@ jSlider Style Start
         -ms-transform: rotate(45deg);
         transform: rotate(45deg);
     }
-    
+
     .opacity-1 {
         opacity: 1 !important
     }
     /*===============================================================================
 Pagination Style Start
 ==================================================================================*/
-    
+
     .pagination .page-link,
     .pagination .page-item.disabled .page-link {
         background: transparent;
     }
-    
+
     .pagination-dotted-active .page-item:not(:last-child) {
         margin-right: 10px;
     }
-    
+
     .pagination-dotted-active .page-link {
         color: #fff;
         border: none;
@@ -1178,12 +1178,12 @@ Pagination Style Start
         line-height: 35px;
         color: var(--theme-dark-color)
     }
-    
+
     .pagination-dotted-active .page-item:first-child .page-link,
     .pagination-dotted-active .page-item:last-child .page-link {
         width: auto
     }
-    
+
     .pagination-dotted-active .active .page-link {
         background: var(--theme-primary-color);
         border: none;
@@ -1192,30 +1192,30 @@ Pagination Style Start
     /*===============================================================================
 Custom Scroll Bar Style Start
 ==================================================================================*/
-    
+
     .dashboard-nav-area::-webkit-scrollbar,
     .left-filter-fixed::-webkit-scrollbar,
     .nav-leftpush-overlay .navbar-expand-lg .navbar-slide-push::-webkit-scrollbar {
         display: none;
     }
-    
+
     .active-chat-list::-webkit-scrollbar,
     .chat-body::-webkit-scrollbar {
         width: 4px;
     }
     /* width */
-    
+
      ::-webkit-scrollbar {
         width: 8px;
     }
     /* Track */
-    
+
      ::-webkit-scrollbar-track {
         background: #f1f1f1;
         -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
         box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
     }
-    
+
     .active-chat-list::-webkit-scrollbar-track,
     .chat-body::-webkit-scrollbar-track {
         background: var(--theme-white-color);
@@ -1223,28 +1223,28 @@ Custom Scroll Bar Style Start
         box-shadow: none;
     }
     /* Handle */
-    
+
      ::-webkit-scrollbar-thumb {
         background: var(--theme-dark-color);
     }
-    
+
     .active-chat-list::-webkit-scrollbar-thumb,
     .chat-body::-webkit-scrollbar-thumb {
         background: var(--theme-gray-color);
     }
     /* Handle on hover */
-    
+
      ::-webkit-scrollbar-thumb:hover {
         background: var(--theme-primary-color);
     }
     /*===============================================================================
 About Us Style Start
 ==================================================================================*/
-    
+
     .about-us-img-wrap {
         position: relative
     }
-    
+
     .about-us-img-wrap .video-wrap {
         position: absolute;
         bottom: 100px;
@@ -1253,7 +1253,7 @@ About Us Style Start
         overflow: hidden;
         border-radius: 10px;
     }
-    
+
     .about-us-info-wrap blockquote {
         background-color: var(--theme-primary-opacity-color);
         padding: 20px;
@@ -1262,12 +1262,12 @@ About Us Style Start
         border-color: var(--theme-primary-color);
         font-size: 16px;
     }
-    
+
     .icon-text-1 {
         display: flex;
         align-items: center;
     }
-    
+
     .icon-text-1 .icon-area {
         width: 50px;
         height: 50px;
@@ -1280,7 +1280,7 @@ About Us Style Start
         line-height: 37px;
         position: relative;
     }
-    
+
     .icon-text-1 .icon-area .icon {
         position: absolute;
         top: 50%;
@@ -1288,49 +1288,49 @@ About Us Style Start
         transform: translate(-50%, -50%);
         display: flex;
     }
-    
+
     .icon-text-1 .icon-area .ifs-20::before {
         font-size: 25px;
         line-height: 25px;
     }
-    
+
     .list-half-width {
         display: inline-block;
         width: 100%;
     }
-    
+
     .list-half-width>* {
         width: 50%;
         float: left;
         padding-right: 20px;
         margin: 10px 0;
     }
-    
+
     .flat-info {
         display: flex;
         align-items: center;
     }
-    
+
     .flat-info img {
         width: 20px !important;
         margin-left: 5px;
     }
-    
+
     .flat-info li span:first-child {
         display: flex;
         align-items: center;
         justify-content: left;
     }
-    
+
     .flat-info>* {
         padding: 0 20px;
         border-right: 1px solid var(--theme-general-color);
     }
-    
+
     .flat-info>*:first-child {
         padding-left: 0;
     }
-    
+
     .flat-info>*:last-child {
         padding-right: 0;
         border-right: 0;
@@ -1338,22 +1338,22 @@ About Us Style Start
     /*===============================================================================
 Apartment Sketch Style Start
 ==================================================================================*/
-    
+
     .apartments-plan-info {
         padding: 70px;
     }
-    
+
     .apartments-info-list>ul li:not(:first-child) {
         margin-top: 20px;
     }
-    
+
     .apartments-info-list>ul li {
         display: flex;
         align-items: center;
         justify-content: space-between;
         position: relative;
     }
-    
+
     .apartments-info-list>ul li::before {
         position: absolute;
         content: "";
@@ -1367,29 +1367,29 @@ Apartment Sketch Style Start
         border-color: var(--theme-white-color);
         z-index: 1;
     }
-    
+
     .apartments-info-list>ul li span,
     .apartments-info-list>ul li label {
         background-color: var(--theme-primary-color);
         z-index: 9;
     }
-    
+
     .apartments-info-list>ul li label {
         padding-right: 10px;
     }
-    
+
     .apartments-info-list>ul li span {
         padding-left: 10px;
     }
     /*===============================================================================
 Photo Gallery Style Start
 ==================================================================================*/
-    
+
     .photo-overlay {
         position: relative;
         overflow: hidden;
     }
-    
+
     .photo-overlay::before {
         content: "";
         position: absolute;
@@ -1401,13 +1401,13 @@ Photo Gallery Style Start
         bottom: 0;
         opacity: 0;
     }
-    
+
     .photo-overlay:hover::before {
         opacity: 1;
         left: 0;
         right: 0;
     }
-    
+
     .photo-overlay a.quick-view,
     .photo-overlay a.photo-view {
         width: 50px;
@@ -1421,12 +1421,12 @@ Photo Gallery Style Start
         text-align: center;
         opacity: 0;
     }
-    
+
     .photo-overlay:hover a.quick-view {
         opacity: 1;
         margin-left: 30px;
     }
-    
+
     .photo-overlay:hover a.photo-view {
         opacity: 1;
         margin-left: -30px;
@@ -1434,12 +1434,12 @@ Photo Gallery Style Start
     /*===============================================================================
 Service Area Style Start
 ==================================================================================*/
-    
+
     .thumb-angle-left .box-70px {
         position: relative;
         text-align: center;
     }
-    
+
     .thumb-angle-left .box-70px::before {
         position: absolute;
         content: "";
@@ -1449,12 +1449,12 @@ Service Area Style Start
         border-style: solid;
         border-color: transparent transparent transparent var(--theme-primary-color);
     }
-    
+
     .service-style-1,
     .hover-style-1 {
         position: relative
     }
-    
+
     .hover-style-1::before {
         position: absolute;
         content: "";
@@ -1469,13 +1469,13 @@ Service Area Style Start
         opacity: 0;
         visibility: hidden;
     }
-    
+
     .hover-style-1:hover::before {
         width: 100%;
         opacity: 1;
         visibility: visible;
     }
-    
+
     .service-style-1 .icon-wrap {
         width: 100px;
         height: 100px;
@@ -1485,22 +1485,22 @@ Service Area Style Start
         border-radius: 50%;
         margin: 0 auto;
     }
-    
+
     .service-style-1 .icon-wrap .icon {
         display: flex;
         height: 100%;
         justify-content: center;
         align-items: center;
     }
-    
+
     .service-style-1:hover .icon-wrap {
         background-color: var(--theme-white-color);
     }
-    
+
     .service-style-1:hover .title a {
         color: var(--theme-white-color) !important;
     }
-    
+
     .service-style-1 .btn-icon {
         position: absolute;
         bottom: -20px;
@@ -1513,21 +1513,21 @@ Service Area Style Start
         color: var(--theme-dark-color);
         z-index: 9
     }
-    
+
     .service-style-1 .btn-icon .icon {
         display: flex;
         height: 100%;
         align-items: center;
         justify-content: center;
     }
-    
+
     .service-style-1:hover .btn-icon {
         color: var(--theme-primary-color);
     }
 /*===============================================================================
 Agent Block Style Start
 ==================================================================================*/
-    
+
 .agent-overview,
 .agent-thumb-copious {
     border-radius: 6px;
@@ -1599,7 +1599,7 @@ Agent Block Style Start
 /*===============================================================================
 Property Block Style Start
 ==================================================================================*/
-    
+
     .property-list-1,
     .property-grid-1 {
         border-radius: 6px;
@@ -1611,58 +1611,58 @@ Property Block Style Start
         border-radius: 5px;
         overflow: hidden;
     }
-    
+
     .property-block {
         position: relative;
         overflow: hidden;
     }
-    
+
     .property-block .post-meta {
         width: 100%
     }
-    
+
     .property-block .cata {
         left: 15px;
         top: 15px;
         z-index: 9;
     }
-    
+
     .property-block .cata span {
         padding: 5px 12px;
         font-size: 13px;
         margin-right: 3px;
         border-radius: 3px;
     }
-    
+
     .property-block .thumbnail-img img {
         opacity: 0.7;
     }
-    
+
     .quantity li {
         padding-right: 15px;
     }
-    
+
     .quantity li:last-child {
         padding: 0
     }
-    
+
     .price-on {
         position: absolute;
         bottom: 20px;
         left: 15px;
         font-family: var(--theme-highlight-font);
     }
-    
+
     .post-meta .agent img {
         width: 40px;
         height: 40px;
     }
-    
+
     .quick-meta {
         right: 15px;
         bottom: 15px;
     }
-    
+
     .quick-meta li {
         width: 42px;
         height: 42px;
@@ -1672,12 +1672,12 @@ Property Block Style Start
         margin: 2px;
         text-align: center;
     }
-    
+
     .quick-meta li a {
         padding: 9px;
         display: block;
     }
-    
+
     .lsd_list li {
         border-radius: 5px;
         background-color: rgb(247, 247, 247);
@@ -1685,39 +1685,39 @@ Property Block Style Start
         padding: 4px 20px;
         text-align: center;
     }
-    
+
     .lsd_list li a {
         color: #484848;
         font-size: 14px;
         line-height: 30px;
         display: block;
     }
-    
+
     .list-style-tick li::before {
         top: 50%;
         transform: translateY(-50%);
     }
-    
+
     .product-offer-item {
         font-size: 15px;
     }
-    
+
     .product-offer-item strong {
         font-weight: 500;
         color: var(--theme-dark-color);
     }
-    
+
     div.summary .product-offer-item:before {
         color: var(--theme-primary-color);
         font-size: 20px;
         margin-right: 10px;
         line-height: 1;
     }
-    
+
     div.summary .product-offer-item:before {
         content: "\f02b";
     }
-    
+
     div.summary .product-offer-item::before {
         display: inline-block;
         font-family: "Font Awesome 5 Free";
@@ -1728,25 +1728,25 @@ Property Block Style Start
         text-decoration: inherit;
         vertical-align: middle;
     }
-    
+
     .product-status {
         line-height: 25px;
         height: 25px;
     }
-    
+
     .property-grid-3 [class*="overlay-"]::before {
         z-index: 1;
         background: rgb(46, 55, 70);
         background: linear-gradient(0deg, rgba(46, 55, 70, 0.8) 0%, rgba(46, 55, 70, 0.5) 50%, rgba(46, 55, 70, 0) 100%);
     }
-    
+
     .property-grid-3 .data-on {
         position: absolute;
         z-index: 10;
         left: 15px;
         bottom: 15px;
     }
-    
+
     .property-grid-4 .location {
         position: absolute;
         bottom: 20px;
@@ -1754,13 +1754,13 @@ Property Block Style Start
         z-index: 9;
         color: var(--theme-white-color);
     }
-    
+
     .property-grid-4 .thumbnail-img .quick-meta li {
         width: auto;
         height: auto;
         background-color: rgba(var(--theme-white-color-rgba), .3);
     }
-    
+
     .property-grid-4 .thumbnail-img .quick-meta li a {
         display: flex;
         align-items: center;
@@ -1768,54 +1768,54 @@ Property Block Style Start
         line-height: 30px;
         color: var(--theme-white-color);
     }
-    
+
     .property-grid-4 .thumbnail-img .quick-meta li a i {
         margin-right: 5px;
     }
-    
+
     .property-grid-4 .product-price {
         font-size: 16px;
         font-weight: 500;
     }
-    
+
     .property-grid-4 .about-avata {
         display: flex;
         flex-direction: column;
     }
-    
+
     .property-grid-4 .about-avata .name a {
         font-size: 16px;
         font-weight: 500;
         color: var(--theme-dark-color);
     }
-    
+
     .property-grid-4 .about-avata .name a:hover {
         color: var(--theme-primary-color)
     }
-    
+
     .property-grid-4 .about-avata .designation {
         font-size: 13px;
     }
-    
+
     .property-grid-4 .post-meta .quick-meta li a {
         color: var(--theme-general-color);
         background-color: var(--theme-light-color);
     }
-    
+
     .property-grid-4 .post-meta .quick-meta li a:hover {
         color: var(--theme-white-color);
         background-color: var(--theme-primary-color);
     }
-    
+
     .property-grid-5 .post-meta ul {
         display: flex;
         align-items: center;
     }
-    
+
     .property-grid-5 .post-meta ul li:not(:last-child) {
         margin-right: 30px;
     }
-    
+
     .property-grid-5 .post-meta a:hover span {
         text-decoration: none;
     }
@@ -1845,12 +1845,12 @@ Property Block Style Start
         padding-bottom: 15px;
         border-bottom: 1px dashed #eee;
     }
-    
+
     .property-list-1 .thumbnail-img a {
         display: block;
         height: 100%;
     }
-    
+
     .property-list-1 .thumbnail-img img {
         object-fit: cover;
         width: 100%;
@@ -1859,14 +1859,14 @@ Property Block Style Start
     /*===============================================================================
 Blog Thumbnail Style Start
 ==================================================================================*/
-    
+
     .thumb-blog-overlay .post-meta a span {
         font-size: 13px;
     }
     /*===============================================================================
 Blog Single Style Start
 ==================================================================================*/
-    
+
     .media {
         display: -ms-flexbox;
         display: flex;
@@ -1874,7 +1874,7 @@ Blog Single Style Start
         align-items: start;
         flex-wrap: wrap;
     }
-    
+
     .media-body {
         -ms-flex: 1;
         flex: 1;
@@ -1882,7 +1882,7 @@ Blog Single Style Start
     /*===============================================================================
 Sidebar Widgets Style Start
 ==================================================================================*/
-    
+
     .widget-box-model .widget,
     .agent-search,
     .woo-filter-bar,
@@ -1894,39 +1894,39 @@ Sidebar Widgets Style Start
         border-radius: 6px;
         margin-bottom: 30px;
     }
-    
+
     .widget {
         padding: 35px;
     }
-    
+
     .widget .owl-carousel .owl-dots {
         margin-top: 0
     }
-    
+
     .widget_recent_property>ul>li {
         display: flex;
         margin-bottom: 20px;
     }
-    
+
     .widget_recent_property li img {
         width: 70px;
         height: 70px;
         margin-right: 15px;
     }
-    
+
     .widget_recent_property .quantity li {
         padding-right: 5px;
         font-size: 13px;
     }
-    
+
     .view-category button {
         border-radius: 7px;
     }
-    
+
     .widget_search .screen-reader-text {
         display: none;
     }
-    
+
     .widget_search .search-field {
         border: 1px solid;
         border-color: var(--theme-gray-color);
@@ -1937,58 +1937,58 @@ Sidebar Widgets Style Start
         border-radius: 3px;
         width: 100%;
     }
-    
+
     .widget_search label {
         width: 100%;
     }
-    
+
     .widget_search input[type="submit"] {
         display: none;
     }
-    
+
     .widget_sidebarnav ul li,
     .widget_categories ul li {
         padding: 12px 0;
     }
-    
+
     .widget_sidebarnav ul li a {
         font-size: 15px;
         color: var(--theme-general-color);
     }
-    
+
     .widget_sidebarnav ul li a:hover {
         color: var(--theme-primary-color);
     }
-    
+
     .widget_recent_entries ul li a {
         font-weight: 400;
     }
     /*===============================================================================
 Fact Counter Style Start
 ==================================================================================*/
-    
+
     .bar-progress {
         font-weight: 400;
     }
     /*===============================================================================
 Mixitup Style Start
 ==================================================================================*/
-    
+
     .mixitup-control-active {
         color: var(--theme-primary-color)
     }
     /*===============================================================================
 Accordion Style Start
 ==================================================================================*/
-    
+
     .ac-card {
         padding: 10px 0;
     }
-    
+
     .ac-collapse {
         margin-top: 20px;
     }
-    
+
     .bb-accordion .ac-toggle i {
         background-color: var(--theme-secondary-color);
         width: 30px;
@@ -2002,21 +2002,21 @@ Accordion Style Start
         color: var(--theme-white-color);
         float: left
     }
-    
+
     [class*="accordion-plus-"] .ac-toggle {
         position: relative;
     }
-    
+
     .accordion-plus-right .ac-toggle {
         padding-right: 30px;
         line-height: 30px;
         display: block;
     }
-    
+
     .accordion-plus-left .ac-toggle {
         padding-left: 30px;
     }
-    
+
     [class*="accordion-plus-"] .ac-toggle::before,
     [class*="accordion-plus-"] .ac-toggle::after {
         content: "";
@@ -2028,23 +2028,23 @@ Accordion Style Start
         top: 50%;
         transform: translateY(-50%)
     }
-    
+
     .accordion-plus-left .ac-toggle.active::before {
         content: "";
     }
-    
+
     .accordion-plus-left .ac-toggle::before,
     .accordion-plus-left .ac-toggle::after {
         left: 0
     }
-    
+
     [class*="accordion-plus-"] .ac-toggle:not(.active):after {
         transform: rotate(90deg);
     }
 /*===============================================================================
 Owl Carousel Style Start
 ==================================================================================*/
-    
+
     .owl-outer-20 .owl-stage-outer {
         padding: 20px;
         margin: -20px
@@ -2071,7 +2071,7 @@ Owl Carousel Style Start
         background-color: var(--theme-primary-color);
         color: var(--theme-dark-color);
     }
-    
+
     .owl-carousel button.owl-dot.active {
         width: 15px;
         height: 15px;
@@ -2079,7 +2079,7 @@ Owl Carousel Style Start
         border-radius: 50%;
         border: 5px solid #e0e2e3;
     }
-    
+
     .owl-carousel button.owl-dot {
         width: 15px;
         height: 15px;
@@ -2088,7 +2088,7 @@ Owl Carousel Style Start
         background-color: #e0e2e3;
         border: 5px solid #fff;
     }
-    
+
     .testimonial-simple blockquote {
         font-size: 16px;
         color: #fff;
@@ -2098,7 +2098,7 @@ Owl Carousel Style Start
     /*===============================================================================
 Page Banner Style Start
 ==================================================================================*/
-    
+
     .banner-title {
         font-size: 30px;
         font-weight: 500;
@@ -2106,7 +2106,7 @@ Page Banner Style Start
     /*===============================================================================
 Search Banner Style Start
 ==================================================================================*/
-    
+
     .banner-search {
         width: 100%;
         padding-top: 250px;
@@ -2115,23 +2115,23 @@ Search Banner Style Start
     /*===============================================================================
 Map Element Style Start
 ==================================================================================*/
-    
+
     .homepage-map #map {
         width: 100%;
         height: 750px;
     }
-    
+
     .gm-style img {
         width: 100%
     }
-    
+
     .infobox-wrapper {
         background: #fff;
         width: 300px !important;
         margin-bottom: 85px;
         margin-left: -48px;
     }
-    
+
     .infobox-wrapper>img {
         position: absolute !important;
         top: 20px;
@@ -2140,11 +2140,11 @@ Map Element Style Start
         width: 22px;
         height: 22px
     }
-    
+
     .infobox-wrapper .img_area {
         position: relative
     }
-    
+
     .infobox-wrapper .sale_amount {
         position: absolute;
         bottom: 20px;
@@ -2154,7 +2154,7 @@ Map Element Style Start
         color: #fff;
         font-family: var(--theme-highlight-font);
     }
-    
+
     .infobox-wrapper:after {
         content: "";
         position: absolute;
@@ -2166,34 +2166,34 @@ Map Element Style Start
         border-right: 20px solid transparent;
         border-top: 20px solid #fff;
     }
-    
+
     #map-banner {
         position: relative;
         width: 100%
     }
-    
+
     #map-banner.visible {
         overflow: visible
     }
-    
+
     .homepage-map #map {
         width: 100%;
         height: 710px
     }
-    
+
     .marker-style {
         width: 20px;
         height: 20px;
         margin-left: -10px !important;
         margin-top: -50px !important
     }
-    
+
     .cluster>div {
         font-size: 12px !important;
         font-family: var(--theme-general-font) !important;
         line-height: 44px !important
     }
-    
+
     #find-location {
         position: absolute;
         bottom: 50px;
@@ -2209,7 +2209,7 @@ Map Element Style Start
         -webkit-transition: all 300ms ease-in-out;
         transition: all 300ms ease-in-out
     }
-    
+
     #find-location.open {
         -moz-transform: translate(-50%, 50px);
         -webkit-transform: translate(-50%, 50px);
@@ -2218,7 +2218,7 @@ Map Element Style Start
         transform: translate(-50%, 50px);
         z-index: 9999
     }
-    
+
     .form-up-btn {
         font-family: var(--theme-general-font) !important;
         font-weight: 500;
@@ -2226,11 +2226,11 @@ Map Element Style Start
         line-height: 50px;
         cursor: pointer
     }
-    
+
     .form-up-btn span {
         padding-left: 15px
     }
-    
+
     #find-location.open .form-up-btn span i {
         -moz-transform: rotate(180deg);
         -ms-transform: rotate(180deg);
@@ -2239,7 +2239,7 @@ Map Element Style Start
         transform: rotate(180deg)
     }
     /*Home page 6 map*/
-    
+
     .search-box-map #find-location {
         width: 320px;
         bottom: 50%;
@@ -2253,57 +2253,57 @@ Map Element Style Start
         transition: all 300ms ease-in-out 0s;
         padding: 30px;
     }
-    
+
     .price_range {
         padding-bottom: 30px;
     }
-    
+
     .search-box-map .property_filter_input .price-filter,
     .search-fixed-right .property_filter_input .price-filter {
         height: 50px;
         margin-right: 5px;
     }
     /*Home page 9 map*/
-    
+
     #map-banner.half-wide-map {
         display: flex
     }
-    
+
     .half-wide-map #map {
         width: 65%;
         float: left;
     }
-    
+
     .search-fixed-right {
         float: right;
         width: 35%;
     }
-    
+
     .search-fixed-right #find-location {
         position: static;
         transform: none;
     }
-    
+
     .single_property_detail #map {
         height: 270px;
     }
     /*===============================================================================
 Property Page Style Start
 ==================================================================================*/
-    
+
     .view-category button {
         width: 50px;
         height: 50px;
         line-height: 51px;
     }
-    
+
     .woocommerce-ordering-pages {
         line-height: 50px;
     }
     /*===============================================================================
 Compare Page Style Start
 ==================================================================================*/
-    
+
     .clip-item .fa-times {
         position: absolute;
         top: 10px;
@@ -2317,31 +2317,31 @@ Compare Page Style Start
         line-height: 16px;
         font-size: 10px;
     }
-    
+
     .clip-item:hover .fa-times {
         opacity: 1;
     }
-    
+
     .compare-list-properties {
         overflow-x: auto;
     }
-    
+
     .compare-list-properties tr:nth-child(2n) {
         background: #f5f5f5;
     }
-    
+
     .compare-list-properties td:first-child {
         text-align: left;
         width: 200px;
         padding-left: 25px;
     }
-    
+
     .compare-list-properties td {
         padding: 15px;
         text-align: center;
         position: relative;
     }
-    
+
     .compare-list-properties .available::before,
     .compare-list-properties .not-available::before {
         content: "\f00c";
@@ -2350,7 +2350,7 @@ Compare Page Style Start
         font-weight: 900;
         display: inline-block;
     }
-    
+
     .compare-list-properties .not-available::before {
         content: "\f00d";
         color: #d43e3e;
@@ -2358,19 +2358,19 @@ Compare Page Style Start
     /*===============================================================================
 Deshboard Style Start
 ==================================================================================*/
-    
+
     .nav-light .navbar-nav .nav-link {
         color: var(--text-light-color);
     }
-    
+
     .dashboard-nav .db-dropdown-menu li .nav-link {
         padding: 10px 20px;
     }
-    
+
     .dashboard-nav .db-dropdown-menu li:last-child .nav-link {
         padding-bottom: 20px;
     }
-    
+
     .dashboard-nav .navbar-nav .nav-link {
         font-size: 13px;
         padding: 10px 20px;
@@ -2378,37 +2378,37 @@ Deshboard Style Start
         border-color: transparent;
         position: relative;
     }
-    
+
     .dashboard-nav .navbar-nav .nav-link:hover {
         color: #FFF;
     }
-    
+
     .dashboard-nav .navbar-nav>.nav-item>.nav-link:hover {
         border-left: 3px solid;
         border-color: var(--theme-primary-color);
         background: var(--theme-extra-color);
     }
-    
+
     .dashboard-nav .navbar-nav .nav-item.active>.nav-link {
         color: #FFF;
     }
-    
+
     .dashboard-nav .navbar-nav>.nav-item.active>.nav-link {
         border-left: 3px solid;
         border-color: var(--theme-primary-color);
         background: var(--theme-extra-color);
     }
-    
+
     .dashboard-nav .db-dropdown-menu>li>.nav-link {
         border-left: 3px solid;
         border-color: var(--theme-primary-color);
         background: var(--theme-extra-color);
     }
-    
+
     .dashboard-nav .db-dropdown-menu {
         display: none;
     }
-    
+
     .dashboard-nav .navbar-nav .db-dropdown .nav-link.dropdown-toggle:after {
         transform: translateY(-50%) rotate(90deg);
         position: absolute;
@@ -2421,14 +2421,14 @@ Deshboard Style Start
         display: block;
         border: none;
     }
-    
+
     .user-option img {
         width: 40px;
         height: 40px;
         border-radius: 100%;
         margin-right: 10px;
     }
-    
+
     .ball::before {
         position: absolute;
         content: "";
@@ -2440,27 +2440,27 @@ Deshboard Style Start
         top: 35px;
         opacity: 0.3;
     }
-    
+
     .msg-history,
     .active-chat-list {
         height: 100vh;
         overflow: scroll;
     }
-    
+
     .msg-history li,
     .active-chat-list li {
         display: flex;
         padding: 10px 0;
     }
-    
+
     .active-chat-list li {
         min-width: 300px;
     }
-    
+
     .msg-history li .chat-info {
         min-width: 500px;
     }
-    
+
     .msg-history li .avata,
     .active-chat-list li .avata {
         position: relative;
@@ -2468,24 +2468,24 @@ Deshboard Style Start
         margin-right: 20px;
         display: ruby
     }
-    
+
     .active-chat-list li img {
         width: 60px;
         height: 60px;
     }
-    
+
     .active-chat-list li .user-status {
         position: absolute;
         top: 42px;
         left: 43px;
     }
-    
+
     .active-chat-list li .user-status i {
         border: 2px solid #fff;
         border-radius: 100%;
         font-size: 11px;
     }
-    
+
     .active-chat-list li .un-read {
         width: 19px;
         height: 19px;
@@ -2496,65 +2496,65 @@ Deshboard Style Start
         line-height: 20px;
         margin-left: auto;
     }
-    
+
     .chatbox-head img {
         width: 70px;
         height: 70px;
     }
-    
+
     .msg-history li .avata img {
         width: 40px;
         height: 40px
     }
-    
+
     .chatbox-head .user-status {
         position: absolute;
         top: 50px;
         left: 50px;
     }
-    
+
     .chatbox-head .user-status i {
         border: 2px solid #fff;
         border-radius: 100%;
         font-size: 12px;
     }
-    
+
     .text-write-box button {
         position: absolute;
         right: 15px;
         top: 10px;
     }
-    
+
     .text-write-box input {
         padding-right: 105px !important;
     }
-    
+
     .items-list tr {
         border-bottom: 10px solid #ececec;
         background-color: #fff
     }
-    
+
     .items-list.bg-transparent tr {
         background-color: transparent;
         border-bottom: 1px solid #ececec;
     }
-    
+
     .items-list tr td,
     .items-list tr th {
         padding: 20px;
         font-weight: 400;
     }
-    
+
     .items-list td img {
         width: 90px;
         float: left;
         margin-right: 15px;
     }
-    
+
     .media-upload li.col {
         position: relative
     }
-    
+
     .media-upload a {
         position: absolute;
         top: 10px;
@@ -2567,7 +2567,7 @@ Deshboard Style Start
         font-size: 11px;
         border-radius: 3px;
     }
-    
+
     .fileupload_label {
         background: transparent;
         cursor: pointer;
@@ -2582,12 +2582,12 @@ Deshboard Style Start
         -o-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out;
     }
-    
+
     .fileupload_label:hover {
         background: rgba(144, 201, 35, 0.05);
         border-color: rgba(144, 201, 35, 0.7);
     }
-    
+
     .wrap-custom-file {
         position: relative;
         display: inline-block;
@@ -2595,7 +2595,7 @@ Deshboard Style Start
         height: 200px;
         text-align: center;
     }
-    
+
     .wrap-custom-file input[type="file"] {
         position: absolute;
         top: 0;
@@ -2605,7 +2605,7 @@ Deshboard Style Start
         overflow: hidden;
         opacity: 0;
     }
-    
+
     .wrap-custom-file label {
         z-index: 1;
         position: absolute;
@@ -2624,7 +2624,7 @@ Deshboard Style Start
         transition: transform 0.4s;
         transition: transform 0.4s, -webkit-transform 0.4s;
     }
-    
+
     .wrap-custom-file label span {
         border-radius: 5px;
         background-color: #ffffff;
@@ -2642,16 +2642,16 @@ Deshboard Style Start
         position: absolute;
         width: 120px;
     }
-    
+
     .compare-chart-classic .table tr th {
         background-color: var(--theme-light-color);
     }
-    
+
     .compare-chart-classic .table tr th,
     .compare-chart-classic .table tr td {
         border-color: var(--theme-gray-color)
     }
-    
+
     .dashboard-nav-area {
         height: 100vh;
         width: 100%;
@@ -2661,7 +2661,7 @@ Deshboard Style Start
 /*===============================================================================
 Footer Style Start
 ==================================================================================*/
-  
+
 .media-footer-dark .widget-title,
 .media-footer-dark .footer-widget a {
     color: var(--theme-white-color);
@@ -2697,25 +2697,25 @@ Social Media Style Start
 /*===============================================================================
 Responsive Style Start
 ==================================================================================*/
-    
+
     @media screen and (min-width: 1200px) {
         .container {
             max-width: 1180px
         }
     }
-    
+
     @media screen and (min-width: 1320px) {
         .container {
             max-width: 1240px
         }
     }
-    
+
     @media screen and (min-width: 1500px) {
         .container {
             max-width: 1440px
         }
     }
-    
+
     @media screen and (min-width: 767px) {
         .agent-list-view,
         .property-list-1 {
@@ -2744,13 +2744,13 @@ Responsive Style Start
             position: static !important;
         }
     }
-    
+
     @media screen and (min-width: 576px) {
         .position-sm-absolute {
             position: absolute !important
         }
     }
-    
+
     @media screen and (max-width: 991px) {
         .apartments-plan-info {
             padding: 50px;
@@ -2816,7 +2816,7 @@ Responsive Style Start
             display: none;
         }
     }
-    
+
     @media screen and (max-width: 767px) {
         #page_wrapper,
         .dashboard-body {
@@ -2873,7 +2873,7 @@ Responsive Style Start
             max-width: 100% !important;
         }
     }
-    
+
     @media screen and (max-width: 419px) {
         .list-half-width>* {
             width: 100%
