@@ -11,7 +11,7 @@
     <meta name="description" content="Uniland - Real Estate HTML5 Template">
     <meta name="keywords" content="real estate, property, property search, agent, apartments, booking, business, idx, housing, real estate agency, rental">
     <meta name="author" content="unicoder">
-    <title>Uniland - Real Estate HTML5 Template</title>
+    <title>GALLERY- ELINK AGENCIES </title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/images/favicon.ico">
 

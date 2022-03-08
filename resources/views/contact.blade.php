@@ -11,7 +11,7 @@
     <meta name="description" content="Uniland - Real Estate HTML5 Template">
     <meta name="keywords" content="real estate, property, property search, agent, apartments, booking, business, idx, housing, real estate agency, rental">
     <meta name="author" content="unicoder">
-    <title>Uniland - Real Estate HTML5 Template</title>
+    <title>CONTACT- ELINK AGENCIES </title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/images/favicon.ico">
 
@@ -79,13 +79,14 @@
                     <div class="mb-3">
                         <ul>
                             <li class="mb-3">
-                                <h6 class="mb-0">Office Address :</h6> Kikuyu
+                                <h4 class="mb-0">Office Address :</h4> Kikuyu
                             </li>
                             <li class="mb-3">
-                                <h6>Contact Number :</h6> 0729296841, 0770268722
+                                <h4>Contact Number :</h4> <b>0729296841, 0770268722</b>
                             </li>
                             <li class="mb-3">
-                                <h6>Email Address :</h6> Info@patron.com, support@patron.com
+                                <h4>Email Address :</h4> elinkagencies@gmail.com
+
                             </li>
                         </ul>
                     </div>

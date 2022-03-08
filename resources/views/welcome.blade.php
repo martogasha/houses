@@ -11,7 +11,7 @@
     <meta name="description" content="Uniland - Real Estate HTML5 Template">
     <meta name="keywords" content="real estate, property, property search, agent, apartments, booking, business, idx, housing, real estate agency, rental">
     <meta name="author" content="unicoder">
-    <title>Uniland - Real Estate HTML5 Template</title>
+    <title>HOME- ELINK AGENCIES </title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/images/favicon.ico">
 
@@ -68,24 +68,24 @@
     <!--============== Slider Area Start ==============-->
     <div class="full-row p-0 overflow-hidden">
 
-        <div id="slider" class="overflow-hidden" style="width:1200px; height:1280px; margin:0 auto;margin-bottom: 0px;">
+        <div id="slider" class="overflow-hidden">
             <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:5000; transition2d:104; kenburnsscale:1.2;">
-                <img width="1920" height="1280" src="assets/images/slider/Elink4.png" class="ls-bg" alt="" />
+                <img width="1920" height="1080" src="assets/images/slider/Elink4.jpg" class="ls-bg" alt="" />
             </div>
             <!-- Slide 1-->
             <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:5000; transition2d:104; kenburnsscale:1.00;">
-                <img width="1920" height="1280" src="assets/images/slider/Elink1.png" class="ls-bg" alt="" />
+                <img width="1920" height="1080" src="assets/images/slider/Elink.jpg" class="ls-bg" alt="" />
             </div>
 
             <!-- Slide 2-->
             <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:5000; transition2d:104; kenburnsscale:1.2;">
-                <img width="1920" height="1280" src="assets/images/slider/Elink41.png" class="ls-bg" alt="" />
+                <img width="1920" height="1080" src="assets/images/slider/Elink2.jpg" class="ls-bg" alt="" />
             </div>
             <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:5000; transition2d:104; kenburnsscale:1.2;">
-                <img width="1920" height="1280" src="assets/images/slider/Elink5.png" class="ls-bg" alt="" />
+                <img width="1920" height="1080" src="assets/images/slider/Elink3.jpg" class="ls-bg" alt="" />
             </div>
             <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:5000; transition2d:104; kenburnsscale:1.2;">
-                <img width="1920" height="1280" src="assets/images/slider/Elink2.png" class="ls-bg" alt="" />
+                <img width="1920" height="1080" src="assets/images/slider/Elink4.jpg" class="ls-bg" alt="" />
             </div>
 
         </div>
@@ -136,34 +136,50 @@
         <div class="container">
             <div class="row">
                 <div class="col mb-5">
-                    <h2 class="main-title down-line w-50 mx-auto mb-4 text-center w-sm-100">What You Area Looking For?</h2>
+                    <h2 class="main-title down-line w-50 mx-auto mb-4 text-center w-sm-100">What You Are Looking For?</h2>
                 </div>
             </div>
             <div class="row row-cols-xl-4 row-cols-sm-2 row-cols-1 g-4">
+                <a href="{{url('contact')}}">
                 <div class="col">
                     <div class="text-center p-35 bg-white transation hover-shadow h-100 rounded">
                         <span class="flaticon-network flat-medium text-primary"></span>
-                        <h5 class="mb-3 font-400"><a href="#" class="d-block text-secondary hover-text-primary mt-4">House</a></h5>
+                        <br>
+                        <br>
+                        <h5>HOUSE</h5>
                     </div>
                 </div>
-                <div class="col">
-                    <div class="text-center p-35 bg-white transation hover-shadow h-100 rounded">
-                        <span class="flaticon-network flat-medium text-primary"></span>
-                        <h5 class="mb-3 font-400"><a href="#" class="d-block text-secondary hover-text-primary mt-4">Land</a></h5>
+                </a>
+                <a href="{{url('contact')}}">
+                    <div class="col">
+                        <div class="text-center p-35 bg-white transation hover-shadow h-100 rounded">
+                            <span class="flaticon-network flat-medium text-primary"></span>
+                            <br>
+                            <br>
+                            <h5>LAND</h5>
+                        </div>
                     </div>
-                </div>
-                <div class="col">
-                    <div class="text-center p-35 bg-white transation hover-shadow h-100 rounded">
-                        <span class="flaticon-network flat-medium text-primary"></span>
-                        <h5 class="mb-3 font-400"><a href="#" class="d-block text-secondary hover-text-primary mt-4">Office</a></h5>
+                </a>
+                <a href="{{url('contact')}}">
+                    <div class="col">
+                        <div class="text-center p-35 bg-white transation hover-shadow h-100 rounded">
+                            <span class="flaticon-network flat-medium text-primary"></span>
+                            <br>
+                            <br>
+                            <h5>OFFICE</h5>
+                        </div>
                     </div>
-                </div>
-                <div class="col">
-                    <div class="text-center p-35 bg-white transation hover-shadow h-100 rounded">
-                        <span class="flaticon-network flat-medium text-primary"></span>
-                        <h5 class="mb-3 font-400"><a href="#" class="d-block text-secondary hover-text-primary mt-4">Business</a></h5>
+                </a>
+                <a href="{{url('contact')}}">
+                    <div class="col">
+                        <div class="text-center p-35 bg-white transation hover-shadow h-100 rounded">
+                            <span class="flaticon-network flat-medium text-primary"></span>
+                            <br>
+                            <br>
+                            <h5>BUSINESS</h5>
+                        </div>
                     </div>
-                </div>
+                </a>
             </div>
         </div>
     </div>
@@ -182,78 +198,6 @@
     <!--============== Recent Property End ==============-->
 
     <!--============== Blog Section Start ==============-->
-    <div class="full-row bg-light">
-        <div class="container">
-            <div class="row">
-                <div class="col">
-                    <span class="pb-2 d-table w-50 w-sm-100 text-primary m-auto text-center tagline">Our Recent Post</span>
-                    <h2 class="down-line w-50 w-sm-100 mx-auto text-center mb-5">Publish What We Think, About Our Company Activities</h2>
-                </div>
-            </div>
-            <div class="row row-cols-lg-3 row-cols-md-2 row-cols-1">
-                <div class="col">
-                    <div class="thumb-blog-overlay bg-white hover-text-PushUpBottom mb-4">
-                        <div class="post-image position-relative overlay-secondary">
-                            <img src="assets/images/blog/1.png" alt="Image not found!">
-                            <div class="position-absolute xy-center">
-                                <div class="overflow-hidden text-center">
-                                    <a class="text-white first-push-up transation font-large" href="#">+</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="post-content p-35">
-                            <h5 class="d-block font-400 mb-3"><a href="#" class="transation text-dark hover-text-primary">Our latest development projects by more efficie.</a></h5>
-                            <p>Nostra maecenas malesuada vel lobortis sociis mus aliquam tempor etiam ipsum pretium cursus.</p>
-                            <div class="post-meta text-uppercase">
-                                <a href="#"><span>By Robert Haven</span></a>
-                                <a href="#"><span>Dec 25, 2019</span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="thumb-blog-overlay bg-white hover-text-PushUpBottom mb-4">
-                        <div class="post-image position-relative overlay-secondary">
-                            <img src="assets/images/blog/2.png" alt="Image not found!">
-                            <div class="position-absolute xy-center">
-                                <div class="overflow-hidden text-center">
-                                    <a class="text-white first-push-up transation font-large" href="#">+</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="post-content p-35">
-                            <h5 class="d-block font-400 mb-3"><a href="#" class="transation text-dark hover-text-primary">Cultivating market leadership from the inside.</a></h5>
-                            <p>Nostra maecenas malesuada vel lobortis sociis mus aliquam tempor etiam ipsum pretium cursus.</p>
-                            <div class="post-meta text-uppercase">
-                                <a href="#"><span>By Robert Haven</span></a>
-                                <a href="#"><span>Dec 25, 2019</span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="thumb-blog-overlay bg-white hover-text-PushUpBottom mb-4">
-                        <div class="post-image position-relative overlay-secondary">
-                            <img src="assets/images/blog/3.png" alt="Image not found!">
-                            <div class="position-absolute xy-center">
-                                <div class="overflow-hidden text-center">
-                                    <a class="text-white first-push-up transation font-large" href="#">+</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="post-content p-35">
-                            <h5 class="d-block font-400 mb-3"><a href="#" class="transation text-dark hover-text-primary">We are the next generation of the advertising.</a></h5>
-                            <p>Nostra maecenas malesuada vel lobortis sociis mus aliquam tempor etiam ipsum pretium cursus.</p>
-                            <div class="post-meta text-uppercase">
-                                <a href="#"><span>By Robert Haven</span></a>
-                                <a href="#"><span>Dec 25, 2019</span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     <!--============== Blog Section End ==============-->
 
     <!--============== Register Section Start ==============-->
@@ -264,7 +208,7 @@
                     <h3 class="text-white xs-text-center my-20 font-400">Are you looking for House cleaning services?</h3>
                 </div>
                 <div class="col-lg-3 col-md-4">
-                    <a href="#" class="btn btn-white y-center position-relative d-table xs-mx-auto ms-auto">CALL: 0729296841</a>
+                    <a href="{{url('contact')}}" class="btn btn-white y-center position-relative d-table xs-mx-auto ms-auto">CALL: 0729296841</a>
                 </div>
             </div>
         </div>

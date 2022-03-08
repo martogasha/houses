@@ -40,7 +40,7 @@
             <div class="col">
                 <div class="footer-widget newslatter-widget mb-4">
                     <h4 class="widget-title mb-4">Appointment</h4>
-                    <a href="#" class="btn btn-primary w-100">Register Now</a>
+                    <a href="#" class="btn btn-primary w-100">CALL: 0729296841</a>
                 </div>
             </div>
         </div>
