@@ -42,17 +42,6 @@
 <div id="page_wrapper" class="bg-light">
     <!--============== Header Section Start ==============-->
     <header class="nav-on-top shadow-sm bg-white">
-        <div class="top-header xs-mx-none bg-light border-bottom">
-            <div class="container">
-                <div class="row row-cols-md-2 row-cols-1">
-                    <div class="col">
-                        <ul class="top-contact list-color-secondary">
-                            <li><a href="#"><i class="fa fa-phone" aria-hidden="true"></i> Need Support ? 0729296841</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
         <div class="main-nav py-2 xs-p-0">
             <div class="container">
                 <div class="row">
