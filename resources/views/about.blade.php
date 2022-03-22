@@ -85,14 +85,21 @@
                         </div>
                         <div class="col border-start border-geay mb-5">
                             <div class="simple-thumb transation px-4">
-                                <h5 class="my-3"><a href="#" class="text-secondary">Vision</a></h5>
-                                <p>To be the leader in Property Management in Kenya and beyond.</p>
+                                <h5 class="my-3"><a href="#" class="text-secondary">Why Us</a></h5>
+                                <p><b>Property Management:</b> We are property managers and therefore once a property is under us we take full management thus the owner can detach themselves from day to day running of their property as they concentrate their efforts in other productive projects.</p>
+                                <p><b>Tenancy Database and Relations:</b> We maintain a database of tenants to ensure that vacant properties are occupied as fast as possible for maximum returns.</p>
+                                <p><b>Advertisements:</b> We provide your vacant property with continuous quality exposure to ensure maximum occupancy within the shortest time possible.</p>
+                                <p><b>Timely Collection and Disbursments:</b> We ensure that all collections are done in full and timely manner and consequently disbursed to owners as per the agreed date.</p>
+                                <p><b>Strong IT Systems:</b> We have a very robust IT system that ensures recording, processing and thereafter reporting of every transaction.</p>
+                                <p><b>KRA Returns and Accounting:</b> We do KRA returns for the properties under our management at subsidized rates. Where our customers have other businesses where returns are applicable. We do KRA returns at a considerable discounted price.</p>
+                                <p><b>Regular Property Inspections(personalized property attention):</b> We safeguard your investments by keeping your property attractive though painstakingly detailed maintenance, attention to the cost to benefit ratio and practicing regular inspections inorder to prevent rather than fix problems.</p>
+                                <p><b>Caretakers/Cleaners:</b> We sub-contract and supervise the caretakers who are directly responsible over daily cleaning and maintenance of the property.</p>
                             </div>
                         </div>
                         <div class="col border-start border-geay mb-5">
                             <div class="simple-thumb transation px-4">
-                                <h5 class="my-3"><a href="#" class="text-secondary">Why Us</a></h5>
-                                <p>Property Management, Tenancy Database and Relations, Advertisement, Timely Collection and Disbursement, Strong It System, Kra Returns and Accounting, Regular Property inspection, Caretakers/Cleaners</p>
+                                <h5 class="my-3"><a href="#" class="text-secondary">Vision</a></h5>
+                                <p>To be the leader in Property Management in Kenya and beyond.</p>
                             </div>
                         </div>
                     </div>
@@ -102,48 +109,6 @@
     </div>
     <!--============== Features End ==============-->
     <!--============== Photos Start ==============-->
-    <div class="full-row pt-0">
-        <div class="container">
-            <div class="row row-cols-md-3 row-cols-1 g-4">
-                <div class="col-lg-4">
-                    <div class="text-secondary mb-5">
-                        <div class="col">
-                            <div class="gallery-one photo-overlay">
-                                <a href="assets/images/property/about4.jpg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
-                                    <span class="flaticon-zoom-in"></span>
-                                </a>
-                                <img src="assets/images/property/about4.jpg" alt="real estate template">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="gallery-one photo-overlay">
-                        <a href="assets/images/property/about2.jpg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
-                            <span class="flaticon-zoom-in"></span>
-                        </a>
-                        <img src="assets/images/property/about2.jpg" alt="real estate template">
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="gallery-one photo-overlay">
-                        <a href="assets/images/property/about1.jpg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
-                            <span class="flaticon-zoom-in"></span>
-                        </a>
-                        <img src="assets/images/property/about1.jpg" alt="real estate template">
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="gallery-one photo-overlay">
-                        <a href="assets/images/property/about3.jpg" class="photo-view transation xy-center" data-fancybox="gallery" data-caption="Caption for image">
-                            <span class="flaticon-zoom-in"></span>
-                        </a>
-                        <img src="assets/images/property/about3.jpg" alt="real estate template">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     <!--============== Photos End ==============-->
 
     <!--============== Footer Section Start ==============-->
