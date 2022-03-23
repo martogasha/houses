@@ -17,7 +17,12 @@
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Jost:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
-
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!------ Include the above in your HEAD tag ---------->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <!-- Required style of the theme -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/bootstrap-select.min.css">
@@ -57,25 +62,110 @@
     <!--============== Slider Area Start ==============-->
 
     <!--============== Slider Area End ==============-->
-    <div class="box">
-        <div class="slider-box" id="sb_1" data-auto-slide="true" data-speed="3000">
-            <div class="slider-content">
-                <div class="slider-item active" data-background-url="assets/images/property/g6.jpeg"></div>
-                <div class="slider-item" data-background-url="assets/images/property/g14.jpeg"></div>
-                <div class="slider-item" data-background-url="assets/images/property/g15.jpeg"></div>
-                <div class="slider-item" data-background-url="assets/images/property/g12.jpeg"></div>
-                <div class="slider-item" data-background-url="assets/images/property/g23.jpg"></div>
-                <div class="slider-item" data-background-url="assets/images/slider/Elink5.jpg"></div>
-                <div class="slider-item" data-background-url="assets/images/slider/Elink4.jpg"></div>
-                <div class="slider-item" data-background-url="assets/images/slider/Elink3.jpg"></div>
-                <div class="slider-item" data-background-url="assets/images/slider/Elink2.jpg"></div>
-                <div class="slider-item" data-background-url="assets/images/slider/Elink.jpg"></div>
+    <!--- This may need to change --->
+    <!-- Slider main container -->
+    <!-- Navigation -->
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner" role="listbox">
+                <!-- Slide One - Set the background image for this slide in the line below -->
+                <div class="carousel-item active" style="background-image: url('assets/images/property/g6.jpeg')">
+                    <div class="carousel-caption d-none d-md-block">
+                    </div>
+                </div>
+                <!-- Slide Two - Set the background image for this slide in the line below -->
+                <div class="carousel-item" style="background-image: url('assets/images/property/g14.jpeg')">
+                    <div class="carousel-caption d-none d-md-block">
+                    </div>
+                </div>
+                <!-- Slide Three - Set the background image for this slide in the line below -->
+                <div class="carousel-item" style="background-image: url('assets/images/property/g15.jpeg')">
+                    <div class="carousel-caption d-none d-md-block">
+                    </div>
+                </div>
+                <div class="carousel-item" style="background-image: url('assets/images/property/g12.jpeg')">
+                    <div class="carousel-caption d-none d-md-block">
+                    </div>
+                </div>
+                <div class="carousel-item" style="background-image: url('assets/images/property/g23.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                    </div>
+                </div>
+                <div class="carousel-item" style="background-image: url('assets/images/slider/Elink5.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                    </div>
+                </div>
+                <div class="carousel-item" style="background-image: url('assets/images/slider/Elink4.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                    </div>
+                </div>
+                <div class="carousel-item" style="background-image: url('assets/images/slider/Elink3.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                    </div>
+                </div>
+                <div class="carousel-item" style="background-image: url('assets/images/slider/Elink2.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                    </div>
+                </div>
+                <div class="carousel-item" style="background-image: url('assets/images/slider/Elink.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                    </div>
+                </div>
             </div>
-            <div class="slider-pagin"></div>
-            <div class="slider-fillbar"></div>
-            <div class="slider-background"></div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
         </div>
-    </div>
+
+    <!-- /.container -->
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script src="https://cdn.linearicons.com/free/1.0.0/svgembedder.min.js"></script>
+    <style>
+        .carousel-item {
+            height: 570px;
+            min-height: 350px;
+            background: no-repeat center center scroll;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+        section {
+            padding-top: 5rem;
+            padding-bottom: 5rem;
+        }
+
+        .lnr {
+            display: inline-block;
+            fill: currentColor;
+            width: 1em;
+            height: 1em;
+            vertical-align: -0.05em;
+            stroke-width: 1;
+        }
+
+        .services-icon {
+            margin-bottom: 20px;
+            font-size: 30px;
+        }
+
+        .quote-icon {
+            font-size: 40px;
+            margin-bottom: 20px;
+        }
+        .services-icon {
+            font-size: 60px;
+            margin-left: 2rem;
+        }
+    </style>
     <div class="full-row" style="padding-top: 10px">
         <div class="container">
             <div class="row row-cols-lg-4 row-cols-sm-2 row-cols-1 g-4">
@@ -279,129 +369,6 @@
     <!--============== Modal End ==============-->
 
 </div>
-<style>
-    /* RESET */
-    *{margin:0;padding:0;box-sizing:border-box;}
-    body{
-        font-family:Arial, sans-serif;
-    }
-    .box{
-        padding:2em;
-    }
-
-
-    /* Style for slider-box DONT TOUCH IT*/
-    .slider-box{
-        width:100%;
-        background-color:#eee;
-        position:relative;
-        min-height:500px;
-        z-index:0;
-        overflow:hidden;
-    }
-
-    .slider-content, .slider-content .slider-item{
-        position:absolute;
-        top:0;
-        width:100%;
-        height:100%;
-    }
-
-    .slider-content .slider-item{
-        /*  Offset (effet slide in/out) to off set left:0; */
-        left:5%;
-    }
-
-    .slider-content .slider-item{
-        visibility:hidden;
-        opacity:0;
-        transition:all 0.5s ease-in-out;
-    }
-
-    .slider-content .slider-item.active{
-        visibility:visible;
-        opacity:1;
-        left:0;
-    }
-
-    .slider-pagin{
-        position:absolute;
-        bottom:0;
-        left:50%;
-        transform:translate(-50%, 0);
-    }
-
-    .slider-pagin ul{
-        list-style:none;
-        display:flex;
-        align-items:center;
-        justify-content:center;
-        padding:10px 0;
-    }
-
-    .slider-pagin ul li{
-        padding-bottom:0;
-        transition:all 0.2s ease-in-out;
-    }
-
-    .slider-pagin ul li+li{
-        margin-left:2px;
-    }
-
-    .slider-pagin ul li a{
-        display:flex;
-        align-items:center;
-        justify-content:center;
-        width:10px;
-        height:10px;
-        border-radius:50%;
-        background-color:#000;
-        border:2px solid #FFF;
-        text-decoration:none;
-        color:#FFF;
-        transition:all 0.2s ease-in-out;
-    }
-
-    .slider-pagin ul li.active a, .slider-pagin ul li a:hover, .slider-pagin ul li a:focus{
-        background-color:#FFF;
-        border:2px solid #000;
-    }
-
-    .slider-pagin ul li.active{
-        padding-bottom:5px;
-    }
-
-    .slider-fillbar{
-        position:absolute;
-        bottom:0;
-        left:0;
-        width:0;/* must be 0, only othe values to preview */
-        height:3px;
-        background-color:rgba(0,0,0,0.25);
-    }
-
-    .slider-background{
-        position:absolute;
-        top:0;
-        left:0;
-        width:100%;
-        height:100%;
-        background-size:cover;
-        background-repeat:none;
-        background-position:center;
-        z-index:-1;
-    }
-
-    /* Your slider box style */
-    .slider-content .slider-item{
-        display:flex;
-        align-items:center;
-        justify-content:flex-end;
-        padding:2em;
-        color:#FFF;
-        font-size:3rem;
-    }
-</style>
 
 <!-- Javascript Files -->
 <script src="assets/js/jquery.min.js"></script>
@@ -421,121 +388,14 @@
 <script src="assets/js/mixitup.min.js"></script>
 <script src="assets/js/paraxify.js"></script>
 <script src="assets/js/custom.js"></script>
-
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 </body>
 
 <script>
-    $(document).ready(function(){
-        //
-        var $sb = $(".slider-box");
-
-        $sb.each(function(){
-
-            var $this = $(this),
-                $sc = $this.find(".slider-content"),
-                $si = $sc.find(".slider-item"),
-                $sp = $this.find(".slider-pagin"),
-                $sfb = $this.find(".slider-fillbar"),
-                $sbg = $this.find(".slider-background"),
-                currentSlider = 0;
-
-            //Check and return speed
-            function speedo(elem){
-                let s = elem.data("speed");
-                if(s < 1300){
-                    s = 1300;
-                    elem.data("speed", s);
-                    elem.attr("data-speed", s);
-                }
-                return s;
-            }
-
-            //Animation for fill bar
-            function animateFillBar(){
-                if($sfb != null){
-                    $sfb.stop().animate({
-                        width: "0%"
-                    }, 0, "linear" ).animate({
-                        width: "100%"
-                    }, speedo($this), "linear" );
-                }
-            }
-            animateFillBar();
-
-
-            //Set background if exist
-            function changeBackground(){
-                if($sbg != null){
-                    let url = $si.eq(currentSlider).data("background-url");
-
-                    $sbg.fadeOut(function(){
-                        $sbg.css({"background-image":`url(${url})`}).fadeIn();
-                    });
-                }
-            }
-            changeBackground();
-
-
-            //Set slider items
-            function setSlider(sid){
-                animateFillBar();
-
-                $si.removeClass("active");
-                $sp.find("li").removeClass("active");
-
-                if(sid==null){
-                    currentSlider++;
-                }
-                else{
-                    currentSlider = sid;
-                }
-
-                if(currentSlider > $si.length-1){
-                    currentSlider = 0;
-                }
-
-                $si.eq(currentSlider).addClass("active");
-                $sp.find("li").eq(currentSlider).addClass("active");
-
-                changeBackground();
-            }
-
-            //Check if auto-slide is on and set speed animation
-            var autoslide = $this.data("auto-slide"), asInterval;
-            if(autoslide){
-                let speed = speedo($this);
-                asInterval = setInterval(setSlider, speed);
-            }
-
-            //Generate pagination
-            var sii = 0, paginHTML = "";
-            paginHTML+="<ul>";
-            $si.each(function(){
-                if($sp == null) return;
-                $(this).attr(`data-id`,sii);
-                paginHTML+=`<li><a href="#" data-target="${$this.attr("id")}" data-target-id="${sii}"><span></span></a></li>`;
-                sii++;
-            });
-
-            paginHTML+="</ul>";
-            $sp.append(paginHTML);
-
-            $sp.find("li").eq(0).addClass("active");
-            $sp.find("a").each(function(e){
-
-                $(this).on("click",function(){
-                    setSlider($(this).data("target-id"));
-
-                    clearInterval(asInterval);
-                    let speed = speedo($this);
-                    asInterval = setInterval(setSlider, speed);
-
-                    e.preventDefault;
-                    return false;
-                });
-            });
-        });
-    });
+    $('#myCarousel').carousel({
+        interval: 3000,
+    })
 </script>
 <!-- Mirrored from unicoderbd.com/theme/html/uniland/fullwidth/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Mar 2022 07:01:57 GMT -->
 </html>

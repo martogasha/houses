@@ -19,3 +19,4 @@ Route::get('/', function () {
 Route::get('gallery', [App\Http\Controllers\IndexController::class, 'gallery']);
 Route::get('about', [App\Http\Controllers\IndexController::class, 'about']);
 Route::get('contact', [App\Http\Controllers\IndexController::class, 'contact']);
+Route::get('test', [App\Http\Controllers\IndexController::class, 'test']);
