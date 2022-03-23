@@ -73,14 +73,26 @@
                     <div class="row row-cols-md-2 row-cols-1">
                         <div class="col border-start border-geay mb-5">
                             <div class="simple-thumb transation px-4">
-                                <h5 class="my-3"><a href="#" class="text-secondary">About Us</a></h5>
-                                <p>E-LINK AGENCIES LTD is a registered property firm in kenya that strives to your dream property or to your investment return. whether you are looking for returns from your property, E-LINK AGENCIES will ensure that your wish is granted and that we connect you to your ideal position.</p>
+                                <img src="assets/images/property/g6.jpeg" alt="Italian Trulli">
+
+                                </div>
                             </div>
                         </div>
+                    <div class="col border-start border-geay mb-5">
+                        <div class="simple-thumb transation px-4">
+                            <p>E-LINK AGENCIES LTD is a registered property firm in kenya that strives to your dream property or to your investment return. whether you are looking for returns from your property, E-LINK AGENCIES will ensure that your wish is granted and that we connect you to your ideal position.</p>
+                        </div>
+                    </div>
                         <div class="col border-start border-geay mb-5">
                             <div class="simple-thumb transation px-4">
                                 <h5 class="my-3"><a href="#" class="text-secondary">Mission Statement</a></h5>
                                 <p>Maxmize clients income by applying exceptional Real Estate Management Skills while ensuring tenant satisfaction by adopting first rate property maintenance.</p>
+                            </div>
+                        </div>
+                        <div class="col border-start border-geay mb-5">
+                            <div class="simple-thumb transation px-4">
+                                <h5 class="my-3"><a href="#" class="text-secondary">Vision</a></h5>
+                                <p>To be the leader in Property Management in Kenya and beyond.</p>
                             </div>
                         </div>
                         <div class="col border-start border-geay mb-5">
@@ -94,12 +106,6 @@
                                 <p><b>KRA Returns and Accounting:</b> We do KRA returns for the properties under our management at subsidized rates. Where our customers have other businesses where returns are applicable. We do KRA returns at a considerable discounted price.</p>
                                 <p><b>Regular Property Inspections(personalized property attention):</b> We safeguard your investments by keeping your property attractive though painstakingly detailed maintenance, attention to the cost to benefit ratio and practicing regular inspections inorder to prevent rather than fix problems.</p>
                                 <p><b>Caretakers/Cleaners:</b> We sub-contract and supervise the caretakers who are directly responsible over daily cleaning and maintenance of the property.</p>
-                            </div>
-                        </div>
-                        <div class="col border-start border-geay mb-5">
-                            <div class="simple-thumb transation px-4">
-                                <h5 class="my-3"><a href="#" class="text-secondary">Vision</a></h5>
-                                <p>To be the leader in Property Management in Kenya and beyond.</p>
                             </div>
                         </div>
                     </div>
