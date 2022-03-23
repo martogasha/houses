@@ -61,16 +61,16 @@
         <a href="#" class="control next">&gt;</a>
         <a href="#" class="control prev">&lt;</a>
         <ul>
-            <a href="#"><li><img src="assets/images/property/g6.jpeg" class="ls-bg" alt="" style="width:100%;height:1000px" /></li></a>
-            <a href="#"><li><img src="assets/images/property/g14.jpeg" class="ls-bg" alt="" style="width:100%;height:100%" /></li></a>
-            <a href="#"><li><img src="assets/images/property/g15.jpeg" class="ls-bg" alt="" style="width:100%;height:100%" /></li></a>
-            <a href="#"><li><img src="assets/images/property/g12.jpeg" class="ls-bg" alt="" style="width:100%;height:100%" /></li></a>
-            <a href="#"><li><img src="assets/images/property/g23.jpg" class="ls-bg" alt="" style="width:100%;height:100%" /></li></a>
-            <a href="#"><li><img src="assets/images/slider/Elink5.jpg" class="ls-bg" alt="" style="width:100%;height:100%" /></li></a>
-            <a href="#"><li><img src="assets/images/slider/Elink4.jpg" class="ls-bg" alt="" style="width:100%;height:100%" /></li></a>
-            <a href="#"><li><img src="assets/images/slider/Elink3.jpg" class="ls-bg" alt="" style="width:100%;height:100%" /></li></a>
-            <a href="#"><li><img src="assets/images/slider/Elink2.jpg" class="ls-bg" alt="" style="width:100%;height:100%" /></li></a>
-            <a href="#"><li><img src="assets/images/slider/Elink.jpg" class="ls-bg" alt="" style="width:100%;height:100%" /></li></a>
+            <a href="#"><li><img src="assets/images/property/g6.jpeg" class="ls-bg" alt="" style="width: 100%" /></li></a>
+            <a href="#"><li><img src="assets/images/property/g14.jpeg" class="ls-bg" alt="" /></li></a>
+            <a href="#"><li><img src="assets/images/property/g15.jpeg" class="ls-bg" alt="" /></li></a>
+            <a href="#"><li><img src="assets/images/property/g12.jpeg" class="ls-bg" alt="" /></li></a>
+            <a href="#"><li><img src="assets/images/property/g23.jpg" class="ls-bg" alt="" /></li></a>
+            <a href="#"><li><img src="assets/images/slider/Elink5.jpg" class="ls-bg" alt="" /></li></a>
+            <a href="#"><li><img src="assets/images/slider/Elink4.jpg" class="ls-bg" alt="" /></li></a>
+            <a href="#"><li><img src="assets/images/slider/Elink3.jpg" class="ls-bg" alt="" /></li></a>
+            <a href="#"><li><img src="assets/images/slider/Elink2.jpg" class="ls-bg" alt="" /></li></a>
+            <a href="#"><li><img src="assets/images/slider/Elink.jpg" class="ls-bg" alt="" /></li></a>
         </ul>
     </div>
     <style>
