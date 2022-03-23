@@ -1899,10 +1899,6 @@ Sidebar Widgets Style Start
         padding: 35px;
     }
 
-    .widget .owl-carousel .owl-dots {
-        margin-top: 0
-    }
-
     .widget_recent_property>ul>li {
         display: flex;
         margin-bottom: 20px;
@@ -2048,45 +2044,6 @@ Owl Carousel Style Start
     .owl-outer-20 .owl-stage-outer {
         padding: 20px;
         margin: -20px
-    }
-
-    .owl-carousel.nav-top-right .owl-nav {
-        position: absolute;
-        right: 0;
-        top: -70px;
-    }
-
-    .owl-carousel.nav-top-right .owl-nav button {
-        width: 36px;
-        height: 36px;
-        font-size: 16px;
-        line-height: 36px;
-        border-radius: 5px;
-        background-color: var(--theme-light-color);
-        color: var(--theme-dark-color);
-        margin-left: 5px;
-    }
-
-    .owl-carousel.nav-top-right .owl-nav button:hover {
-        background-color: var(--theme-primary-color);
-        color: var(--theme-dark-color);
-    }
-
-    .owl-carousel button.owl-dot.active {
-        width: 15px;
-        height: 15px;
-        background-color: var(--theme-dark-color) !important;
-        border-radius: 50%;
-        border: 5px solid #e0e2e3;
-    }
-
-    .owl-carousel button.owl-dot {
-        width: 15px;
-        height: 15px;
-        border-radius: 50%;
-        margin: 0 5px;
-        background-color: #e0e2e3;
-        border: 5px solid #fff;
     }
 
     .testimonial-simple blockquote {
@@ -2811,9 +2768,6 @@ Responsive Style Start
         }
         .overflow-x-scroll table {
             width: 700px !important;
-        }
-        .owl-carousel.nav-top-right .owl-nav {
-            display: none;
         }
     }
 

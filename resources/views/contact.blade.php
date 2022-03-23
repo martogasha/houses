@@ -68,10 +68,10 @@
                     <div class="mb-3">
                         <ul>
                             <li class="mb-3">
-                                <h4 class="mb-0">Office Address :</h4> Kikuyu
+                                <h4 class="mb-0">Office Address :</h4> Kikuyu, Rongai, Ruiru
                             </li>
                             <li class="mb-3">
-                                <h4>Contact Number :</h4> <b>0729296841 / 0770268722 / 0721213678</b>
+                                <h4>Contact Number :</h4> <b>0721213678 / 0729296841 / 0770268722</b>
                             </li>
                             <li class="mb-3">
                                 <h4>Email Address :</h4> elinkagencies@gmail.com

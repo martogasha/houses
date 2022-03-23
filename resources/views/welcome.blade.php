@@ -55,42 +55,87 @@
     <!--============== Header Section End ==============-->
 
     <!--============== Slider Area Start ==============-->
-    <div class="full-row p-0 overflow-hidden">
 
-        <div id="slider" class="overflow-hidden">
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:2000; transition2d:104; kenburnsscale:1.2;">
-                <img width="1920" height="1080" src="assets/images/slider/Elink3.jpg" class="ls-bg" alt="" />
-            </div>
-            <!-- Slide 1-->
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:2000; transition2d:104; kenburnsscale:1.00;">
-                <img width="1920" height="1080" src="assets/images/slider/Elink.jpg" class="ls-bg" alt="" />
-            </div>
-            <!-- Slide 2-->
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:2000; transition2d:104; kenburnsscale:1.2;">
-                <img width="1920" height="1080" src="assets/images/slider/Elink2.jpg" class="ls-bg" alt="" />
-            </div>
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:2000; transition2d:104; kenburnsscale:1.2;">
-                <img width="1920" height="1080" src="assets/images/slider/Elink5.jpg" class="ls-bg" alt="" />
-            </div>
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:2000; transition2d:104; kenburnsscale:1.2;">
-                <img width="1920" height="1080" src="assets/images/slider/Elink4.jpg" class="ls-bg" alt="" />
-            </div>
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:2000; transition2d:104; kenburnsscale:1.2;">
-                <img width="1920" height="1080" src="assets/images/property/g14.jpeg" class="ls-bg" alt="" />
-            </div>
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:2000; transition2d:104; kenburnsscale:1.2;">
-                <img width="1920" height="1080" src="assets/images/property/g15.jpeg" class="ls-bg" alt="" />
-            </div>
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:2000; transition2d:104; kenburnsscale:1.2;">
-                <img width="1920" height="1080" src="assets/images/property/g12.jpeg" class="ls-bg" alt="" />
-            </div>
-            <div class="ls-slide" data-ls="bgsize:cover; bgposition:50% 50%; duration:2000; transition2d:104; kenburnsscale:1.2;">
-                <img width="1920" height="1080" src="assets/images/property/g23.jpg" class="ls-bg" alt="" />
-            </div>
-        </div>
-    </div>
     <!--============== Slider Area End ==============-->
+    <div id="slider" style="height:500px">
+        <a href="#" class="control next">&gt;</a>
+        <a href="#" class="control prev">&lt;</a>
+        <ul>
+            <a href="#"><li><img src="assets/images/property/g6.jpeg" class="ls-bg" alt="" style="width:100%;height:1000px" /></li></a>
+            <a href="#"><li><img src="assets/images/property/g14.jpeg" class="ls-bg" alt="" style="width:100%;height:100%" /></li></a>
+            <a href="#"><li><img src="assets/images/property/g15.jpeg" class="ls-bg" alt="" style="width:100%;height:100%" /></li></a>
+            <a href="#"><li><img src="assets/images/property/g12.jpeg" class="ls-bg" alt="" style="width:100%;height:100%" /></li></a>
+            <a href="#"><li><img src="assets/images/property/g23.jpg" class="ls-bg" alt="" style="width:100%;height:100%" /></li></a>
+            <a href="#"><li><img src="assets/images/slider/Elink5.jpg" class="ls-bg" alt="" style="width:100%;height:100%" /></li></a>
+            <a href="#"><li><img src="assets/images/slider/Elink4.jpg" class="ls-bg" alt="" style="width:100%;height:100%" /></li></a>
+            <a href="#"><li><img src="assets/images/slider/Elink3.jpg" class="ls-bg" alt="" style="width:100%;height:100%" /></li></a>
+            <a href="#"><li><img src="assets/images/slider/Elink2.jpg" class="ls-bg" alt="" style="width:100%;height:100%" /></li></a>
+            <a href="#"><li><img src="assets/images/slider/Elink.jpg" class="ls-bg" alt="" style="width:100%;height:100%" /></li></a>
+        </ul>
+    </div>
+    <style>
+        #slider
+        {
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            padding-top: 25.7%;
+            margin: 0 auto;
+            z-index: 0;
+        }
+        #slider ul
+        {
+            list-style: none;
+            position: absolute;
+            top: 0;
+            left: 0;
+            margin: 0;
+            height: 100%;
+            padding: 0;
+        }
 
+        #slider ul > a
+        {
+            position: relative;
+            float: left;
+            width: 100%;
+            max-width: 100%;
+            height: 100%;
+            max-height: 100%;
+            text-align: center;
+            text-decoration: none;
+        }
+        .control
+        {
+            display: block;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            width: auto;
+            height: auto;
+            padding: 2%;
+            background: #2a2a2a;
+            text-decoration: none;
+            color: #fff;
+            opacity: 0.8;
+            z-index: 1;
+            cursor: pointer;
+        }
+        .control:hover
+        {
+            opacity: 1;
+            transition: all 0.2s ease;
+        }
+        .prev
+        {
+            border-radius: 0 14px 14px 0;
+        }
+        .next
+        {
+            right: 0;
+            border-radius: 14px 0 0 14px;
+        }
+    </style>
     <!--============== Property Search Form Start ==============-->
         <!--============== Property Search Form End ==============-->
 
@@ -101,25 +146,25 @@
                 <div class="col">
                     <div class="thumb-angle-left mb-4 wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1000ms">
                         <div class="box-70px bg-primary p-3"><i class="flaticon-sketch-1 flat-small text-white"></i></div>
-                        <h5 class="mt-5 mb-3 font-400"><a href="#" class="transation">Property Booking</a></h5>
+                        <h5 class="mt-5 mb-3 font-400"><a href="#" class="transation">Land Leasing</a></h5>
                     </div>
                 </div>
                 <div class="col">
                     <div class="thumb-angle-left mb-4 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1000ms">
                         <div class="box-70px bg-primary p-3"><i class="flaticon-sketch-1 flat-small text-white"></i></div>
-                        <h5 class="mt-5 mb-3 font-400"><a href="#" class="transation">Payment Guarantee</a></h5>
+                        <h5 class="mt-5 mb-3 font-400"><a href="#" class="transation">Property Management</a></h5>
                     </div>
                 </div>
                 <div class="col">
                     <div class="thumb-angle-left mb-4 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
                         <div class="box-70px bg-primary p-3"><i class="flaticon-sketch-1 flat-small text-white"></i></div>
-                        <h5 class="mt-5 mb-3 font-400"><a href="#" class="transation">House Management</a></h5>
+                        <h5 class="mt-5 mb-3 font-400"><a href="#" class="transation">Buying and Selling</a></h5>
                     </div>
                 </div>
                 <div class="col">
                     <div class="thumb-angle-left mb-4 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1000ms">
                         <div class="box-70px bg-primary p-3"><i class="flaticon-sketch-1 flat-small text-white"></i></div>
-                        <h5 class="mt-5 mb-3 font-400"><a href="#" class="transation">Property Deal</a></h5>
+                        <h5 class="mt-5 mb-3 font-400"><a href="#" class="transation">Rent Collection</a></h5>
                     </div>
                 </div>
             </div>
@@ -322,25 +367,77 @@
 <script src="assets/js/mixitup.min.js"></script>
 <script src="assets/js/paraxify.js"></script>
 <script src="assets/js/custom.js"></script>
-<script>
-    $('#slider').layerSlider({
-        sliderVersion: '6.0.0',
-        type: 'fullwidth',
-        responsiveUnder: 0,
-        maxRatio: 1,
-        slideBGSize: 'auto',
-        hideUnder: 0,
-        hideOver: 100000,
-        skin: 'outline',
-        fitScreenWidth: true,
-        fullSizeMode: 'fitheight',
-        thumbnailNavigation: 'disabled',
-        height: 780,
-        skinsPath: 'assets/skins/'
-    });
-</script>
+
 </body>
 
+<script>
+    var sTimerLength = 700;
+    var sTimer = sTimerLength;
+    var slideCount, slideWidth, sliderUlWidth;
+    jQuery(document).ready(function($)
+    {
+        slideCount = $('#slider ul > a').length;
+        slideWidth = $('#slider').width();
+        sliderUlWidth = slideCount * slideWidth;
+        $('#slider ul > a').css({ width: slideWidth });
+        $('#slider ul').css({ width: sliderUlWidth, marginLeft: - slideWidth });
+        $('#slider ul > a:last-child').prependTo('#slider ul');
 
+        function moveLeft()
+        {
+            $('#slider ul').animate(
+                {
+                    left: + slideWidth
+                }, 400,
+                function()
+                { //bring the last li to the beginning of the ul
+                    $('#slider ul > a:last-child').prependTo('#slider ul');
+                    //reset the ul's 'left' property as empty string
+                    $('#slider ul').css('left', '');
+                });
+            sTimer = sTimerLength;
+        };
+
+        function moveRight()
+        {
+            $('#slider ul').animate(
+                {
+                    left: - slideWidth
+                }, 400,
+                function()
+                { //bring the first li to the end of the ul
+                    $('#slider ul > a:first-child').appendTo('#slider ul');
+                    //reset the ul's 'left' property as empty string
+                    $('#slider ul').css('left', '');
+                });
+            sTimer = sTimerLength;
+        };
+
+        /*============button controls========*/
+        $('.prev').click(function()
+        {
+            moveLeft();
+        });
+        $('.next').click(function()
+        {
+            moveRight();
+        });
+        setInterval(function()
+        {
+            if( --sTimer == 0 )
+            {
+                moveRight();
+            }
+        }, 1 );
+    });
+    $(window).resize(function()
+    {
+        slideCount = $('#slider ul > a').length;
+        slideWidth = $('#slider').width();
+        sliderUlWidth = slideCount * slideWidth;
+        $('#slider ul > a').css({ width: slideWidth });
+        $('#slider ul').css({ width: sliderUlWidth, marginLeft: - slideWidth });
+    });
+</script>
 <!-- Mirrored from unicoderbd.com/theme/html/uniland/fullwidth/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Mar 2022 07:01:57 GMT -->
 </html>
