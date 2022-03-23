@@ -57,7 +57,7 @@
     <!--============== Slider Area Start ==============-->
 
     <!--============== Slider Area End ==============-->
-    <div id="slider" style="height:500px">
+    <div id="slider" style="height:600px">
         <a href="#" class="control next">&gt;</a>
         <a href="#" class="control prev">&lt;</a>
         <ul>
@@ -73,74 +73,7 @@
             <a href="#"><li><img src="assets/images/slider/Elink.jpg" class="ls-bg" alt="" /></li></a>
         </ul>
     </div>
-    <style>
-        #slider
-        {
-            position: relative;
-            overflow: hidden;
-            width: 100%;
-            padding-top: 25.7%;
-            margin: 0 auto;
-            z-index: 0;
-        }
-        #slider ul
-        {
-            list-style: none;
-            position: absolute;
-            top: 0;
-            left: 0;
-            margin: 0;
-            height: 100%;
-            padding: 0;
-        }
-
-        #slider ul > a
-        {
-            position: relative;
-            float: left;
-            width: 100%;
-            max-width: 100%;
-            height: 100%;
-            max-height: 100%;
-            text-align: center;
-            text-decoration: none;
-        }
-        .control
-        {
-            display: block;
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-            width: auto;
-            height: auto;
-            padding: 2%;
-            background: #2a2a2a;
-            text-decoration: none;
-            color: #fff;
-            opacity: 0.8;
-            z-index: 1;
-            cursor: pointer;
-        }
-        .control:hover
-        {
-            opacity: 1;
-            transition: all 0.2s ease;
-        }
-        .prev
-        {
-            border-radius: 0 14px 14px 0;
-        }
-        .next
-        {
-            right: 0;
-            border-radius: 14px 0 0 14px;
-        }
-    </style>
-    <!--============== Property Search Form Start ==============-->
-        <!--============== Property Search Form End ==============-->
-
-    <!--============== Service Part Start ==============-->
-    <div class="full-row">
+    <div class="full-row" style="padding-top: 13px">
         <div class="container">
             <div class="row row-cols-lg-4 row-cols-sm-2 row-cols-1 g-4">
                 <div class="col">
@@ -227,6 +160,70 @@
             </div>
         </div>
     </div>
+    <style>
+        #slider
+        {
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            padding-top: 25.7%;
+            margin: 0 auto;
+            z-index: 0;
+        }
+        #slider ul
+        {
+            list-style: none;
+            position: absolute;
+            top: 0;
+            left: 0;
+            margin: 0;
+            height: 100%;
+            padding: 0;
+        }
+
+        #slider ul > a
+        {
+            position: relative;
+            float: left;
+            width: 100%;
+            max-width: 100%;
+            height: 100%;
+            max-height: 100%;
+            text-align: center;
+            text-decoration: none;
+        }
+        .control
+        {
+            display: block;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            width: auto;
+            height: auto;
+            padding: 2%;
+            background: #2a2a2a;
+            text-decoration: none;
+            color: #fff;
+            opacity: 0.8;
+            z-index: 1;
+            cursor: pointer;
+        }
+        .control:hover
+        {
+            opacity: 1;
+            transition: all 0.2s ease;
+        }
+        .prev
+        {
+            border-radius: 0 14px 14px 0;
+        }
+        .next
+        {
+            right: 0;
+            border-radius: 14px 0 0 14px;
+        }
+    </style>
+
     <!--============== Property Category End ==============-->
 
     <!--============== Property Agent Start ==============-->
