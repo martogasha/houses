@@ -90,7 +90,7 @@
                     <div class="carousel-caption d-none d-md-block">
                     </div>
                 </div>
-                <div class="carousel-item" style="background-image: url('assets/images/slider/Elink5.jpg')">
+                <div class="carousel-item" style="background-image: url('assets/images/slider/Elink1.jpg')">
                     <div class="carousel-caption d-none d-md-block">
                     </div>
                 </div>
