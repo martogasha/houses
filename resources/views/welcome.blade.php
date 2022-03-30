@@ -60,137 +60,84 @@
     <!--============== Header Section End ==============-->
 
     <!--============== Slider Area Start ==============-->
-
-    <!--============== Slider Area End ==============-->
-    <!--- This may need to change --->
-    <!-- Slider main container -->
-    <!-- Navigation -->
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-            <div class="carousel-inner" role="listbox">
-                <!-- Slide One - Set the background image for this slide in the line below -->
-                <div class="carousel-item active" style="background-image: url('assets/images/property/g6.jpeg')">
-                    <div class="carousel-caption d-none d-md-block">
-                    </div>
-                </div>
-                <!-- Slide Two - Set the background image for this slide in the line below -->
-                <div class="carousel-item" style="background-image: url('assets/images/property/g14.jpeg')">
-                    <div class="carousel-caption d-none d-md-block">
-                    </div>
-                </div>
-                <!-- Slide Three - Set the background image for this slide in the line below -->
-                <div class="carousel-item" style="background-image: url('assets/images/property/g15.jpeg')">
-                    <div class="carousel-caption d-none d-md-block">
-                    </div>
-                </div>
-                <div class="carousel-item" style="background-image: url('assets/images/property/g12.jpeg')">
-                    <div class="carousel-caption d-none d-md-block">
-                    </div>
-                </div>
-                <div class="carousel-item" style="background-image: url('assets/images/property/g23.jpg')">
-                    <div class="carousel-caption d-none d-md-block">
-                    </div>
-                </div>
-                <div class="carousel-item" style="background-image: url('assets/images/slider/Elink1.png')">
-                    <div class="carousel-caption d-none d-md-block">
-                    </div>
-                </div>
-                <div class="carousel-item" style="background-image: url('assets/images/slider/Elink4.jpg')">
-                    <div class="carousel-caption d-none d-md-block">
-                    </div>
-                </div>
-                <div class="carousel-item" style="background-image: url('assets/images/slider/Elink3.jpg')">
-                    <div class="carousel-caption d-none d-md-block">
-                    </div>
-                </div>
-                <div class="carousel-item" style="background-image: url('assets/images/slider/Elink2.jpg')">
-                    <div class="carousel-caption d-none d-md-block">
-                    </div>
-                </div>
-                <div class="carousel-item" style="background-image: url('assets/images/slider/Elink.jpg')">
-                    <div class="carousel-caption d-none d-md-block">
-                    </div>
-                </div>
+    <div class="full-row p-0 overflow-hidden">
+        <div id="slider" class="overflow-hidden" style="width:1920px; height:720px; margin:0 auto;margin-bottom: 0px;">
+            <!-- Slide 1-->
+            <div class="ls-slide" data-ls="kenburnsscale:1.2; duration:3000;">
+                <img width="1920" height="1280" src="assets/images/property/g6.jpeg" class="ls-bg" alt="">
             </div>
-            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
+            <div class="ls-slide" data-ls="kenburnsscale:1.2; duration:3000;">
+                <img width="1920" height="1280" src="assets/images/property/g14.jpeg" class="ls-bg" alt="">
+            </div>
+            <div class="ls-slide" data-ls="kenburnsscale:1.2; duration:3000;">
+                <img width="1920" height="1280" src="assets/images/property/g15.jpeg" class="ls-bg" alt="">
+            </div><div class="ls-slide" data-ls="kenburnsscale:1.2; duration:3000;">
+                <img width="1920" height="1280" src="assets/images/property/g12.jpeg" class="ls-bg" alt="">
+            </div><div class="ls-slide" data-ls="kenburnsscale:1.2; duration:3000;">
+                <img width="1920" height="1280" src="assets/images/property/g23.jpg" class="ls-bg" alt="">
+            </div>
+            <div class="ls-slide" data-ls="kenburnsscale:1.2; duration:3000;">
+                <img width="1920" height="1280" src="assets/images/slider/Elink3.png" class="ls-bg" alt="">
+            </div>
+            <div class="ls-slide" data-ls="kenburnsscale:1.2; duration:3000;">
+                <img width="1920" height="1280" src="assets/images/slider/Elink5.jpg" class="ls-bg" alt="">
+            </div>
+            <div class="ls-slide" data-ls="kenburnsscale:1.2; duration:3000;">
+                <img width="1920" height="1280" src="assets/images/slider/Elink.jpg" class="ls-bg" alt="">
+            </div>
+            <div class="ls-slide" data-ls="kenburnsscale:1.2; duration:3000;">
+                <img width="1920" height="1280" src="assets/images/slider/Elink2.png" class="ls-bg" alt="">
+            </div>
+
+            <!-- Slide 2 -->
+
         </div>
-
-    <!-- /.container -->
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-    <script src="https://cdn.linearicons.com/free/1.0.0/svgembedder.min.js"></script>
-    <style>
-        .carousel-item {
-            height: 570px;
-            min-height: 350px;
-            background: no-repeat center center scroll;
-            -webkit-background-size: cover;
-            -moz-background-size: cover;
-            -o-background-size: cover;
-            background-size: cover;
-        }
-        section {
-            padding-top: 5rem;
-            padding-bottom: 5rem;
-        }
-
-        .lnr {
-            display: inline-block;
-            fill: currentColor;
-            width: 1em;
-            height: 1em;
-            vertical-align: -0.05em;
-            stroke-width: 1;
-        }
-
-        .services-icon {
-            margin-bottom: 20px;
-            font-size: 30px;
-        }
-
-        .quote-icon {
-            font-size: 40px;
-            margin-bottom: 20px;
-        }
-        .services-icon {
-            font-size: 60px;
-            margin-left: 2rem;
-        }
-    </style>
-    <div class="full-row" style="padding-top: 10px">
+    </div>
+    <!--============== Slider Area End ==============-->
+    <!--============== Company Featured start ==============-->
+    <div class="full-row bg-white">
         <div class="container">
-            <div class="row row-cols-lg-4 row-cols-sm-2 row-cols-1 g-4">
+            <div class="row row-cols-lg-3 row-cols-1 g-4">
                 <div class="col">
-                    <div class="thumb-angle-left mb-4 wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1000ms">
-                        <div class="box-70px bg-primary p-3"><i class="flaticon-sketch-1 flat-small text-white"></i></div>
-                        <h5 class="mt-5 mb-3 font-400"><a href="#" class="transation">Land Leasing</a></h5>
+                    <div class="text-center">
+                        <div class="box-100px rounded-circle p-4 mx-auto bg-primary mb-4"><i class="flaticon-life-insurance text-white flat-medium"></i></div>
+                        <h4 class="mb-3 font-400">Land Leasing</h4>
+                        <p>Our property management company, takes a customer service approach when it comes to leasing. Not only are these agents available 7 days a week, but every property is equipped with self-showing lockboxes.</p>
                     </div>
                 </div>
                 <div class="col">
-                    <div class="thumb-angle-left mb-4 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1000ms">
-                        <div class="box-70px bg-primary p-3"><i class="flaticon-sketch-1 flat-small text-white"></i></div>
-                        <h5 class="mt-5 mb-3 font-400"><a href="#" class="transation">Property Management</a></h5>
+                    <div class="text-center">
+                        <div class="box-100px rounded-circle p-4 mx-auto bg-primary mb-4"><i class="flaticon-data text-white flat-medium"></i></div>
+                        <h4 class="mb-3 font-400">Property Managment</h4>
+                        <p>We are property managers and therefore once a property is under us we take full management thus the owner can detach themselves from day to day running of their property as they concentrate their efforts in other productive projects.</p>
                     </div>
                 </div>
                 <div class="col">
-                    <div class="thumb-angle-left mb-4 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
-                        <div class="box-70px bg-primary p-3"><i class="flaticon-sketch-1 flat-small text-white"></i></div>
-                        <h5 class="mt-5 mb-3 font-400"><a href="#" class="transation">Buying and Selling</a></h5>
+                    <div class="text-center">
+                        <div class="box-100px rounded-circle p-4 mx-auto bg-primary mb-4"><i class="flaticon-id-card text-white flat-medium"></i></div>
+                        <h4 class="mb-3 font-400">Buying and Selling</h4>
+                        <p>We pride ourselves on being a progressive and proactive real estate agency specialising in real estate, residential & commercial sales and property.</p>
                     </div>
                 </div>
                 <div class="col">
-                    <div class="thumb-angle-left mb-4 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1000ms">
-                        <div class="box-70px bg-primary p-3"><i class="flaticon-sketch-1 flat-small text-white"></i></div>
-                        <h5 class="mt-5 mb-3 font-400"><a href="#" class="transation">Rent Collection</a></h5>
+                    <div class="text-center">
+                        <div class="box-100px rounded-circle p-4 mx-auto bg-primary mb-4"><i class="flaticon-id-card text-white flat-medium"></i></div>
+                        <h4 class="mb-3 font-400">Rent Collection</h4>
+                        <p>We provide a holistic service from marketing of vacant space, advertising, contract administration, rent collection and continuous care.</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="text-center">
+                        <div class="box-100px rounded-circle p-4 mx-auto bg-primary mb-4"><i class="flaticon-id-card text-white flat-medium"></i></div>
+                        <h4 class="mb-3 font-400">Advertisements</h4>
+                        <p>Property Advertising finds potential buyers before they find you. No more listing a house then crossing your fingers that the right buyer will stumble.</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="text-center">
+                        <div class="box-100px rounded-circle p-4 mx-auto bg-primary mb-4"><i class="flaticon-id-card text-white flat-medium"></i></div>
+                        <h4 class="mb-3 font-400">Caretakers/Cleaners</h4>
+                        <p>We Offer a Comprehensive Range of Cleaning Services for All Types of Business. Call Today! When We Clean, We Do It Right. We're Fast but Thorough and We Mean Business.</p>
                     </div>
                 </div>
             </div>
@@ -205,14 +152,14 @@
             </div>
             <div class="row row-cols-xl-4 row-cols-sm-2 row-cols-1 g-4">
                 <a href="{{url('contact')}}">
-                <div class="col">
-                    <div class="text-center p-35 bg-white transation hover-shadow h-100 rounded">
-                        <span class="flaticon-network flat-medium text-primary"></span>
-                        <br>
-                        <br>
-                        <h5>HOUSE</h5>
+                    <div class="col">
+                        <div class="text-center p-35 bg-white transation hover-shadow h-100 rounded">
+                            <span class="flaticon-network flat-medium text-primary"></span>
+                            <br>
+                            <br>
+                            <h5>HOUSE</h5>
+                        </div>
                     </div>
-                </div>
                 </a>
                 <a href="{{url('contact')}}">
                     <div class="col">
@@ -278,97 +225,9 @@
             </div>
         </div>
     </div>
-    <!--============== Register Section End ==============-->
-
-    <!--============== Footer Section Start ==============-->
-@include('footer')
-
-    <!--============== Copyright Section End ==============-->
-
-    <!-- Scroll to top -->
-    <a href="#" class="text-general scroll-top-vertical xs-mx-none" id="scroll">Scroll to top</a>
-    <!-- End Scroll To top -->
-
-    <!--============== Modal Start ==============-->
-    <div class="overlay-dark modal fade quick-view-modal" id="quick-view">
-        <div class="modal-dialog modal-dialog-centered modal-xl">
-            <div class="modal-content">
-                <div class="close view-close">
-                    <span aria-hidden="true">&times;</span>
-                </div>
-                <div class="modal-body property-block summary p-3">
-                    <div class="row row-cols-xl-2 row-cols-1">
-                        <div class="col">
-                            <div class="overflow-hidden position-relative transation thumbnail-img bg-secondary hover-img-zoom m-2">
-                                <div class="cata position-absolute">
-                                    <span class="sale bg-secondary text-white">For Rent</span>
-                                    <span class="featured bg-primary text-white">Featured</span>
-                                </div>
-                                <a href="#"><img class="w-100" src="assets/images/property/2.png" alt=""></a>
-                                <ul class="position-absolute quick-meta">
-                                    <li><a href="#"><i class="flaticon-transfer flat-mini"></i></a></li>
-                                    <li><a href="#"><i class="flaticon-like-1 flat-mini"></i></a></li>
-                                    <li><a href="#"><i class="flaticon-share flat-mini"></i></a></li>
-                                    <li><a href="#"><i class="flaticon-printer flat-mini"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="property_text transation py-3 pe-3">
-                                <span class="d-inline-block text-primary">Condos</span>
-                                <h5 class="modal-title mb-1" id="staticBackdropLabel"><a href="#" class="text-secondary hover-text-primary transation">Luxury Condos Infront of the street of Green Park</a></h5>
-                                <span class="mt-1 mb-3 d-block font-fifteen"><i class="fas fa-map-marker-alt text-primary"></i> 2305 Tree Frog Lane Overlandpk, MO 66210</span>
-                                <a href="#" class="d-block text-light hover-text-primary font-small mb-2">( 100 People Recommended )</a>
-                                <div class="d-flex">
-                                    <span class="text-secondary font-large">$5600 - $8300/<small>mo</small></span>
-                                    <span class="text-white font-mini px-2 rounded product-status ms-5 my-1 bg-primary"><i class="fas fa-check"></i> Available</span>
-                                </div>
-                                <div class="product-offers mt-3">
-                                    <ul class="product-offers-list">
-                                        <li class="product-offer-item"> <strong>Special Price </strong>Get extra 19% off (price inclusive of discount)</li>
-                                        <li class="product-offer-item"> <strong>Bank Offer </strong> 10% instant discount on VISA Cards</li>
-                                        <li class="product-offer-item"> <strong>No cost EMI $49/month.</strong> Standard EMI also available</li>
-                                    </ul>
-                                </div>
-                                <hr>
-                                <div class="quantity">
-                                    <ul class="d-flex">
-                                        <li><span>Rooms:</span> 5</li>
-                                        <li><span>Beds:</span> 3</li>
-                                        <li><span>Bathrooms:</span> 2</li>
-                                        <li><span>Garage:</span> 1</li>
-                                        <li><span>Area:</span> 1100 Sqft</li>
-                                    </ul>
-                                </div>
-                                <h5 class="text-secondary my-3">Description</h5>
-                                <p>Bibendum purus aenean mus aenean eu interdum nonummy ipsum ad consequat. Dui eros donec faucibus convallis tempus rutrum id donec mus hymenaeos placerat congue curae mauris turpis gravida viverra consequat consequat
-                                    gravida luctus.</p>
-                                <div class="short-description d-flex">
-                                    <span class="me-4"><b>Highlights:</b></span>
-                                    <div class="short-description">
-                                        <ul class="list-style-tick">
-                                            <li>Regular Fit.</li>
-                                            <li>Full sleeves.</li>
-                                            <li>Machine wash, tumble dry.</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="d-flex align-items-center post-meta mt-2 py-3 border-top">
-                                    <div class="agent">
-                                        <a href="#" class="d-flex text-general align-items-center"><img class="rounded-circle me-2" src="assets/images/team/1.jpg" alt="avata"><span>Ali Tufan</span></a>
-                                    </div>
-                                    <div class="post-date ms-auto"><span>2 Month Ago</span></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--============== Modal End ==============-->
 
 </div>
+@include('footer')
 
 <!-- Javascript Files -->
 <script src="assets/js/jquery.min.js"></script>
@@ -380,22 +239,29 @@
 <script src="assets/js/bootstrap-select.min.js"></script>
 <script src="assets/js/jquery.fancybox.min.js"></script>
 <script src="assets/js/owl.js"></script>
-<script src="assets/js/range/tmpl.js"></script>
-<script src="assets/js/range/jquery.dependClass.js"></script>
-<script src="assets/js/range/draggable.js"></script>
-<script src="assets/js/range/jquery.slider.js"></script>
 <script src="assets/js/wow.js"></script>
 <script src="assets/js/mixitup.min.js"></script>
 <script src="assets/js/paraxify.js"></script>
 <script src="assets/js/custom.js"></script>
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<script>
+    $('#slider').layerSlider({
+        sliderVersion: '6.0.0',
+        type: 'fullwidth',
+        responsiveUnder: 0,
+        maxRatio: 1,
+        slideBGSize: 'auto',
+        hideUnder: 0,
+        hideOver: 100000,
+        skin: 'numbers',
+        fitScreenWidth: true,
+        fullSizeMode: 'fitheight',
+        thumbnailNavigation: 'disabled',
+        height: 860,
+        skinsPath: 'assets/skins/'
+    });
+</script>
 </body>
 
-<script>
-    $('#myCarousel').carousel({
-        interval: 3000,
-    })
-</script>
-<!-- Mirrored from unicoderbd.com/theme/html/uniland/fullwidth/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Mar 2022 07:01:57 GMT -->
+
+<!-- Mirrored from unicoderbd.com/theme/html/uniland/fullwidth/index-10.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 16 Feb 2022 10:21:23 GMT -->
 </html>
