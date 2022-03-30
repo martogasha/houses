@@ -86,7 +86,7 @@
                 <img width="1920" height="1280" src="assets/images/slider/Elink.jpg" class="ls-bg" alt="">
             </div>
             <div class="ls-slide" data-ls="kenburnsscale:1.2; duration:3000;">
-                <img width="1920" height="1280" src="assets/images/slider/Elink2.png" class="ls-bg" alt="">
+                <img width="1920" height="1280" src="assets/images/slider/Eli.jpg" class="ls-bg" alt="">
             </div>
 
             <!-- Slide 2 -->
