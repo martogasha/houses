@@ -93,9 +93,9 @@
 
         </div>
     </div>
+    <br>
     <!--============== Slider Area End ==============-->
     <!--============== Company Featured start ==============-->
-    <div class="full-row bg-white">
         <div class="container">
             <div class="row row-cols-lg-3 row-cols-1 g-4">
                 <div class="col">
@@ -142,7 +142,6 @@
                 </div>
             </div>
         </div>
-    </div>
     <div class="full-row bg-light" >
         <div class="container">
             <div class="row">
